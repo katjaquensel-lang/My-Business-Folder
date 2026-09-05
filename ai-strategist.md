@@ -46,6 +46,6 @@ Aus my-one-person.md, offer.md und business.md:
 - Der eine klare Entscheidungsmoment im Kaufweg fehlt.
 - Was mit Nicht-Käufer:innen und mit Käufer:innen danach passiert, ist nicht definiert.
 - Das "Dreieck"-Modell (Massage → energetische Blockaden → Atemarbeit) ist eine Idee, kein ausgearbeiteter Prozess.
-- Realistisches Umsatzziel fehlt (die 26-Behandlungen-Woche-Rechnung ist unrealistisch).
 - Kein Tracking von Anfragen, Buchungen, Herkunft, Öffnungs-/Klickraten.
+- Start-Zeitpunkt für die geplanten Yoga-Gruppenstunden offen.
 - Nur eine kurze, echte Schreibprobe vorhanden für die Stimme, mehr Material folgt mit der Zeit.

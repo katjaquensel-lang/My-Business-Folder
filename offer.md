@@ -19,6 +19,8 @@ Marke: **By Katja**, Claim: "Body · Breath · Being". Standort: Niederlande, ta
 
 **Hausbesuch:** möglich ab 60 Minuten, €10 innerhalb 15km, danach €0,40/km.
 
+**Geplant, noch nicht gestartet:** Yoga-Gruppenstunden, €25/Teilnehmer:in, max. 5 Personen. Bewusst erst für später vorgesehen, aktuell nur kalkuliert (siehe business.md).
+
 Kontakt: katja@bykatja.nl · +31 (0)6 11 329 768 · www.bykatja.nl
 
 ## Die Transformation
@@ -45,3 +47,4 @@ Für wen: siehe my-one-person.md (Katja selbst als die eine Person — jemand, d
 - Was passiert mit Menschen, die weitermachen — ist der Weg vom Dreieck zur tieferen Atemarbeit ein bewusster, definierter Prozess, oder organisch? Noch offen.
 - Das "Dreieck"-Modell (Körperarbeit → Massage → energetische Blockaden → Atemarbeit) ist als Idee klar, aber noch nicht als konkreter Ablauf oder Angebot ausformuliert.
 - Ob und wie Human Design (persönliches Interesse, keine Ausbildung) jemals Teil des Angebots wird — noch offen, aktuell kein Teil des Kernangebots.
+- Zeitpunkt und Bedingungen für den Start der Yoga-Gruppenstunden noch offen.
