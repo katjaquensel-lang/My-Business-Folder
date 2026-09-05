@@ -48,6 +48,13 @@ in "Corrections log" at the bottom. Keep correcting it over time and it keeps ge
      One or two sentences, physical, something a stranger could picture. This is the line
      the skill holds you to every time you brief it and go vague. -->
 
+Du kaufst: raus aus dem Kopf, rein in den Körper. Entspannte, durchblutete Muskeln. Weniger
+Kopfschmerzen. Energie, die wieder strömt. Und bei der Breathwork-Session: das, was in dir
+festsitzt, darf sich endlich lösen, und du kommst näher bei dir selbst an.
+
+(Bewusst nicht drin: "allgemeines Wohlbefinden" oder ähnliche Wellness-Etiketten. Das oben
+ist die konkrete Version davon.)
+
 ## Your founder story (filled if it comes up)
 <!-- What you used to believe and what you do differently now. This is YOUR story, and it is
      not your domino belief. The domino belief lives in domino-belief.md. -->
