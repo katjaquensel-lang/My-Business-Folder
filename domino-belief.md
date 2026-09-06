@@ -43,6 +43,17 @@ Lust auf Kauf, in sechs Monaten noch auswendig aufsagbar), dann drei kurze Versi
 - Nicht ein Feature (Diagnose, Profil, Chart) als Vehicle — das gehört in den Pitch.
 - Nicht etwas, das sie allein an einem Wochenende mit einem Notizbuch schaffen könnte.
 
+## Material, das schon aufgetaucht ist (für morgen, noch nicht final)
+
+Beim Versuch, ihr Promise zu formulieren, kam Katja von selbst auf Vehicle-Material, nicht auf
+das Versprechen. Ihre eigenen Worte: "auch bei physischen Beschwerden zusammen, wenn
+derjenige das möchte, die tieferen Lagen ansehen, wo die eigentlichen Beschwerden entstanden
+sind, und da versuchen, Raum zu machen." Starker Kandidat für Frage 2 (das Vehicle), noch nicht
+gegen den Strip-away-Test geprüft. Das Versprechen selbst steht noch offen; ein erster,
+unbestätigter Ansatzpunkt dafür aus dem Gespräch: "bei einer schwierigen Emotion bleiben,
+statt automatisch zu reagieren, sich zu rechtfertigen oder zu verteidigen" (aus ihrem eigenen
+gelebten Beispiel in `my-one-person.md`), aber Katja hat dem noch nicht zugestimmt.
+
 ## Solange das hier NOT_YET ist
 
 Die Commands (`/newsletter`, `/sales-email`, `/sales-page`, `/social`) funktionieren trotzdem
