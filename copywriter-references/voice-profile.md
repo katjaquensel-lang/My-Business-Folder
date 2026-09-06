@@ -47,6 +47,15 @@ Early, unconfirmed signals only (recheck once more samples are in):
   eigen karakter, haar eigen dromen, haar eigen pad").
 - States real values as a plain list inside a sentence, not as a bullet list or a vague
   word: "vertrouwen, liefde, de moed om grenzen aan te geven, veerkracht."
+- Said directly in conversation, not yet from a writing sample, but her own words and worth
+  keeping: "Wenn wir nicht über uns lachen können, ist die Welt nur halb so lustig." A real
+  point of view (self-deprecating humor as a value), not a slogan. Confirm once real written
+  humor samples come in.
+
+Old professional emails (legal career) ruled out as source material: too formal/factual for
+this voice, from a different chapter of her life. Katja will write 3 fresh, short pieces
+instead (a raw moment with her kids, a funny self-description, an honest few lines on how the
+business launch actually feels) since older informal writing (WhatsApp) isn't recoverable.
 
 ---
 
