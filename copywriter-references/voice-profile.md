@@ -36,6 +36,26 @@ what."
 "Es gibt Momente im Leben, da steht die Welt still. Und wenn sie sich dann weiterdreht, ist
 nichts mehr so, wie es einmal war. Im Gedenken an meine liebe Mutti. Für immer dein."
 
+**Sample 3 — raw message about her kids, written live, unedited (German, verbatim):**
+"Tja, meine Kinder; ich sehe sie aufwachsen, mit allen Hindernissen, die sie nehmen müssen und
+wenn ich sie so sehe, bin ich unglaublich stolz auf sie. Wir haben durch die Trennung vom Vater
+meiner Kinder eine ziemlich dunkle Periode hinter uns und wir wir unseren Alltag meistern, wir
+alle drei, das ist schon etwas um stolz zu sein. Ich sehe Eva unsere Tochter mit der
+Vergangenheit worsteln, aber auch mit dem Umgang mit ihrem Vater jetzt, mit der Schule, mit dem
+Gefühl, nicht dazu zu gehören oder sich anders zu fühlen, Scham, Unsicherheit, alles, was ich
+selbst sehr gut kenn und woran ich gearbeitet habe. Aber natürlich auch mit ihren Hormonen als
+Puber. Schwierig dann für mich um zu unterscheiden, was es in dem speziellen moment dann ist:
+Drama Queen oder wirklich tot traurig, normale Traurigkeit eines Pubers bzw. schlechte Laune
+oder ob da wirklich mehr dahinter steckt. Unser Sohn Aiden ist ja auch noch da, der dreht sein
+eignes Ding und fällt darum weniger in mein Blickfeld. Manchmal frage ich mich, ob er genug
+Aufmerksamkeit bekommt, aber Mütter können ja auch gern mal übertreiben. Also ich denke, er ist
+ganz chill mit in Ruhe gelassen werden. Habe ihn aber gerade gefragt per App ob er mit irgendwo
+essen kommen möchte, wenn er Hunger hat und den hat er oft, kommt er sicher. Okay, weiss nicht,
+keine Lust mehr, nicht professionell, aber muss auch noch einkaufen und das ist jetzt in meinem
+kopf. Also besser, wieder später weiter. Übrigens bin ich glaube etwas chaotisch und ganz
+besonders, wenn ich mein Zeug (sprich Periode habe) und die habe ich gerade bekommen. Too much
+information?"
+
 Early, unconfirmed signals only (recheck once more samples are in):
 - Switches language mid-thought at the most emotional point ("no matter what" in English,
   inside an otherwise Dutch sentence) — reads like real emphasis, not an accident.
@@ -61,6 +81,24 @@ Stated preference (her own words, not yet confirmed from samples): humor has to 
 and substantive ("mit Hand und Fuß"), never instead of substance, but she wants a "knipoog" (a
 wink, said in Dutch mid-German-sentence, same code-switch pattern as sample 1's "no matter
 what") worked in here and there. Confirm once real written humor samples come in.
+
+More signals from sample 3 (confirms and extends the above):
+- Uses real names, never generic labels: "Eva unsere Tochter", "Unser Sohn Aiden," not
+  "my kids."
+- Interrupts and self-corrects mid-thought, live, and leaves it visible rather than smoothing
+  it over: "Okay, weiss nicht, keine Lust mehr, nicht professionell, aber muss auch noch
+  einkaufen... Also besser, wieder später weiter."
+- Heavy content sits right next to light asides, no long dwell time in the hard part: pride
+  and a dark post-separation period, immediately followed by "Mütter können ja auch gern mal
+  übertreiben."
+- Third confirmed instance of the language-switch-at-the-personal-moment pattern: "mit der
+  Vergangenheit worsteln" (Dutch "worstelen" inside a German sentence).
+- Closes a vulnerable passage with a short, direct, almost intimate check-in in English,
+  same shape as sample 1's "no matter what": "Too much information?"
+
+3 of 5-10 target samples now in. Still wanted: an honest few lines on how the business launch
+actually feels (most directly useful for the commands themselves), and possibly one more
+piece if Katja finds anything in email/Instagram.
 
 ---
 
