@@ -57,6 +57,11 @@ this voice, from a different chapter of her life. Katja will write 3 fresh, shor
 instead (a raw moment with her kids, a funny self-description, an honest few lines on how the
 business launch actually feels) since older informal writing (WhatsApp) isn't recoverable.
 
+Stated preference (her own words, not yet confirmed from samples): humor has to stay grounded
+and substantive ("mit Hand und Fuß"), never instead of substance, but she wants a "knipoog" (a
+wink, said in Dutch mid-German-sentence, same code-switch pattern as sample 1's "no matter
+what") worked in here and there. Confirm once real written humor samples come in.
+
 ---
 
 ## The fingerprint (filled from your real writing)
