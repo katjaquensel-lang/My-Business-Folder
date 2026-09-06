@@ -20,15 +20,17 @@ in "Corrections log" at the bottom. Keep correcting it over time and it keeps ge
 > transcription noise rather than her real wording. Flagged below where unsure. Confirm
 > and correct with the real text when possible, then replace this note.
 
-**Sample 1 — Instagram caption to her daughter (Dutch; the opening got lost in the dictation,
-Katja will send the full text later):**
-"Ik weet nu dingen die ik pas na een halve levenstijd heb begrepen. Dingen die ik haar graag
-mee wil geven. [onzeker: "Bade"?], vertrouwen, liefde, veerkracht. Alles wat ik onderweg heb
-geleerd, en toch weet ik ook dat ik haar niet kan behoeden voor alles. Sommige ervaringen moet
-ze zelf opdoen, sommige lessen kan ik niet voor haar leren. Dat is misschien wel één van de
-moeilijkste dingen van het ouderschap, loslaten terwijl je liefhebt met heel je hart. Dus geef
-ik haar alles wat ik kan geven, mijn liefde, mijn steun, mijn vertrouwen en ik blijf naast haar
-staan wat er ook gebeurt, no matter what."
+**Sample 1 — Instagram caption to her daughter (Dutch, now complete/corrected):**
+"Mijn dochter en ik. Soms zie ik mezelf terug in haar, het meisje dat ik ooit was, maar dan met
+haar eigen karakter, haar eigen dromen en haar eigen pad. We lijken op elkaar, en toch zal haar
+verhaal anders zijn dan het mijne. Ik weet nu dingen die ik pas na een halve levenstijd heb
+begrepen. Dingen die ik haar graag mee wil geven. Waarden: vertrouwen, liefde, de moed om
+grenzen aan te geven, veerkracht. Alles wat ik onderweg heb geleerd, en toch weet ik ook dat ik
+haar niet kan behoeden voor alles. Sommige ervaringen moet ze zelf opdoen, sommige lessen kan ik
+niet voor haar leren. Dat is misschien wel één van de moeilijkste dingen van het ouderschap,
+loslaten terwijl je liefhebt met heel je hart. Dus geef ik haar alles wat ik kan geven, mijn
+liefde, mijn steun, mijn vertrouwen en ik blijf naast haar staan wat er ook gebeurt, no matter
+what."
 
 **Sample 2 — Instagram post in memory of her mother (German, complete):**
 "Es gibt Momente im Leben, da steht die Welt still. Und wenn sie sich dann weiterdreht, ist
@@ -40,6 +42,11 @@ Early, unconfirmed signals only (recheck once more samples are in):
 - The memorial post ends on a direct, letter-like address ("Für immer dein") rather than
   explaining or building up to the feeling.
 - Short posts stay short: no scene-setting before the point, no wrap-up after it.
+- Opens sample 1 with a two-word title, not a sentence: "Mijn dochter en ik." Then a mirror
+  move (sees her younger self in her daughter), then a triple repetition for rhythm ("haar
+  eigen karakter, haar eigen dromen, haar eigen pad").
+- States real values as a plain list inside a sentence, not as a bullet list or a vague
+  word: "vertrouwen, liefde, de moed om grenzen aan te geven, veerkracht."
 
 ---
 
