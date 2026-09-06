@@ -87,10 +87,15 @@ concrete body sensations and feelings instead, grounded, never floaty.
 **Word choice, not a ban but binding:** "begleiten" (to accompany/guide), never "helfen" (to
 help) or similar tired coaching language, wherever it fits and feels real.
 
+**Katja's own additions (Step 3, in her words):**
+- "sharen" instead of "teilen" — her own description: "da stellen sich meine Nackenhaare auf"
+  (makes the hair on her neck stand up). A hard no, not a mild preference.
+- Phrases that open with "total" as an intensifier: "total schön," "total toll," and the like.
+- "Manifique" (magnifique) — she finds it "schrecklich."
+
 ## Your personal removals (filled during setup)
 <!-- anything above that is actually part of your real voice, so the skill stops flagging it -->
 
-None yet. Nothing in the 4 confirmed voice samples so far contradicts this list. Recheck once
-real business-voice samples come in — some of the German list above may turn out to describe
-her real voice rather than a mistake to avoid, or Dutch customer-copy conventions may need
-their own read.
+None. Asked directly whether anything on the combined list is actually part of her real voice
+(Step 3 gegencheck) — nothing came back, and nothing in the 4 confirmed voice samples
+contradicts the list either. Recheck once real business-voice samples come in.
