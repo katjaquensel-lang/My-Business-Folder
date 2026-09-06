@@ -3,7 +3,7 @@
 > This file is the heart of your Copywriter. Every command reads it before writing a word.
 > It is filled in during setup by SAMPLING your real writing, not by you describing your tone.
 > Until the marked sections below are filled with real findings, the skill will not generate finished copy.
-> STATUS: NOT_FILLED  <- the skill changes this to FILLED once setup is done. Do not edit this line by hand.
+> STATUS: FILLED  <- the skill changes this to FILLED once setup is done. Do not edit this line by hand.
 
 ## How this got filled
 During setup you pasted 5-10 pieces of your real writing. The skill read them and extracted the
@@ -12,13 +12,12 @@ in "Corrections log" at the bottom. Keep correcting it over time and it keeps ge
 
 ---
 
-## Raw writing samples (setup in progress — 2 of 5-10 collected)
-> STATUS: still collecting. Do NOT run the fingerprint playback yet, there isn't enough here
-> to see a real pattern. Katja is checking email and Instagram for more next session.
-> Her WhatsApp history is gone (phone crashed) and is not recoverable.
-> These two came in over voice dictation, not pasted text, so some words may be
-> transcription noise rather than her real wording. Flagged below where unsure. Confirm
-> and correct with the real text when possible, then replace this note.
+## Raw writing samples (4 collected — fingerprint played back and confirmed)
+> Katja's WhatsApp history is gone (phone crashed, not recoverable) and her old professional
+> emails (legal career) were ruled out as too formal for this voice. These 4 samples were
+> enough for a confident, repeatedly-confirmed pattern (see corrections log). Business-specific
+> writing (email, Instagram, sales copy for By Katja itself) has NOT been sampled yet, only
+> personal writing — keep adding real business samples over time as homework, per Step 7.
 
 **Sample 1 — Instagram caption to her daughter (Dutch, now complete/corrected):**
 "Mijn dochter en ik. Soms zie ik mezelf terug in haar, het meisje dat ik ooit was, maar dan met
@@ -55,6 +54,15 @@ keine Lust mehr, nicht professionell, aber muss auch noch einkaufen und das ist 
 kopf. Also besser, wieder später weiter. Übrigens bin ich glaube etwas chaotisch und ganz
 besonders, wenn ich mein Zeug (sprich Periode habe) und die habe ich gerade bekommen. Too much
 information?"
+
+**Sample 4 — self-description of her own humor, written live, unedited (German, verbatim):**
+"was mich ausmacht, aber was mir auch oft im Wege ist, ist, dass ich beinah alles ausspreche,
+was ich denke, also auch wenn ich Menschen gegenüber stehe. Versteh mich nicht falsch, ich
+beleidige niemanden, ausser eventuell mich selbst, ich amüsiere mich absolut nicht auf
+andermans Kosten. Was ich tue, ist Awkwatness vorbeugen, also gleich mal auszusprechen, was
+andere auch denken und sich nict trauen zu sagen, so dass wir entspannt weitermachen können.
+Manche finden das lustig, Eva und Aiden meistens peinlich und meine Freunde finden das "pur".
+Reicht das oder muss ich irgendwelche Witze erzählen?"
 
 Early, unconfirmed signals only (recheck once more samples are in):
 - Switches language mid-thought at the most emotional point ("no matter what" in English,
@@ -96,42 +104,105 @@ More signals from sample 3 (confirms and extends the above):
 - Closes a vulnerable passage with a short, direct, almost intimate check-in in English,
   same shape as sample 1's "no matter what": "Too much information?"
 
-3 of 5-10 target samples now in. Still wanted: an honest few lines on how the business launch
-actually feels (most directly useful for the commands themselves), and possibly one more
-piece if Katja finds anything in email/Instagram.
+More signals from sample 4 (confirms and extends the above):
+- Names her own function precisely instead of a vague trait: not "I'm funny," but "Awkwardness
+  vorbeugen" (heading off awkwardness by saying out loud what everyone else is already
+  thinking) — a real theory of her own humor, not a label.
+- Draws the line explicitly: never at someone else's expense, only her own ("ich amüsiere mich
+  absolut nicht auf andermans Kosten").
+- Reports how others describe her in their own word, in quotes, rather than claiming it
+  herself: her friends call it "pur."
+- Second confirmed instance of closing with a short, direct check-in question to the
+  reader/listener, same shape as sample 3's "Too much information?": "Reicht das oder muss ich
+  irgendwelche Witze erzählen?"
+- Code-switch pattern now confirmed a 4th time, and not Dutch-only: "Awkwatness" is an English
+  word reached for mid-German-sentence. She switches into whichever language has the word she
+  needs, not one specific second language.
+
+4 samples, fingerprint played back and confirmed with zero corrections ("nichts ist daneben").
+Business-specific writing is still unsampled — real homework for later, not a gap in trust.
 
 ---
 
 ## The fingerprint (filled from your real writing)
 
 **How you open**
-<!-- e.g. "Almost always a scene or a confession, rarely a thesis. Often a question." -->
+Rarely a big windup or a formal introduction. Often a short, almost mid-conversation opener,
+as if picking up a thought that was already running: "Mijn dochter en ik." / "Tja, meine
+Kinder;" Reads like she's continuing to talk to someone, not announcing a topic.
 
 **Sentence rhythm**
-<!-- e.g. "Short, then a long one, then a fragment for punch. Rarely two long sentences in a row." -->
+Long, associative, comma-linked sentences that pile thought onto thought as they arrive, then
+break into a short, blunt aside or a live self-interruption that stays visible rather than
+getting smoothed out ("Okay, weiss nicht, keine Lust mehr, nicht professionell... Also besser,
+wieder später weiter."). Not tightly edited. Rhythm mirrors how she actually thinks out loud.
 
 **Words and phrases you actually reach for**
-<!-- the real ones, pulled from your writing, not invented -->
+Real names over labels ("Eva unsere Tochter," "Unser Sohn Aiden," never "my kids"). "Stolz."
+"Chill." "Chaotisch." "Pur" (quoting what others call her, not claiming it herself). Names her
+own patterns precisely instead of using a vague trait-word ("Awkwardness vorbeugen" rather than
+"I'm funny"). "No matter what." "Knipoog."
 
 **Punctuation habits**
-<!-- e.g. "No semicolons. Comma splices on purpose. Lower-case for asides." -->
+Semicolons show up where a comma would be the "safe" choice ("Tja, meine Kinder;"). Long,
+comma-chained sentences rather than short choppy ones. No exclamation points anywhere across
+4 samples.
 
 **How you close**
-<!-- e.g. "A direct question, then a soft sign-off. Never a hard sell in the body." -->
+Not a statement or a call to action, a short, direct, often English check-in question tossed
+to the reader/listener: "Too much information?" / "Reicht das oder muss ich irgendwelche Witze
+erzählen?" Genuinely inviting a reaction, not rhetorical.
 
 **What you never do**
-<!-- e.g. "Never exclamation points. Never 'I'm so excited to share'. Never hype adjectives." -->
+Never jokes at someone else's expense, only her own. Never smooths away a live self-correction
+or lets a thought look more finished than it was. Never a big, formal opening. No exclamation
+points. No "allgemeines Wohlbefinden" or wellness-label language (see plain-language promise
+below) — always the concrete, physical version instead.
 
 **Your point of view / contrarian takes**
-<!-- the things you believe that others in your space don't say -->
+Humor has a job: heading off awkwardness by saying out loud what everyone else is already
+thinking, so the room can relax ("Awkwardness vorbeugen"), not entertainment for its own sake.
+Stated philosophy: "Wenn wir nicht über uns lachen können, ist die Welt nur halb so lustig,"
+self-deprecating humor as something she values, not a flaw to manage. Humor should stay
+grounded and substantive ("mit Hand und Fuß"), never instead of substance, with a "knipoog"
+worked in where it fits, not as a bit.
 
 ---
 
 ## Your one person (carried from Week 1, sharpened here)
-<!-- name, the 3am thought, the exact words she uses, what she's already tried -->
+Katja herself, before breathwork became real for her. Legal/bureaucratic background (18 years
+in a Dutch law firm, then a municipality), never happy with the management and bureaucracy of
+it. Stuck in her head under conflict: justifying, defending, explaining.
+
+The turning moment: her first breath journey during breathwork training. Starts skeptical and
+angry at the others' reactions, thinks it's theatre. Gets overstimulated by drumming and sound,
+which drops her into a real childhood memory (a threat situation, real fear). Goes fetal to
+protect herself. A facilitator talks her through it; she softens, hits a blockage in her lower
+back, tries to force through it with willpower, which does not work. Gives up control, breathes
+quietly, cries, and lands in peace: no more head, just body.
+
+Her own words right after: "So etwas Fantastisches habe ich noch nie erlebt. In so kurzer Zeit
+so viele Erkenntnisse über mich selbst, über meine Muster, über meine Erziehung, über meine
+Erlebnisse. Und dann so ein wunderbarer Frieden. Das möchte ich nie wieder aufgeben."
+
+What's already tried and didn't work: forcing through the blockage with pressure and willpower.
+What worked: giving up the attempt at control.
+
+Today (concrete, lived example): at her ex-partner's, where the kids partly live, he becomes
+verbally hurtful. Old pattern would have been to justify or defend. Now: no reaction, no
+hooking in, no defending, no explaining. She goes home, sits on a meditation cushion, lets the
+sadness surface, cries, feels better after. She knows this is the only way to deal with him:
+not hooking in, not defending, not explaining.
 
 ## Your offer and the transformation (carried from Week 1)
-<!-- what it is, who it's for, the before -> after -->
+Three doors into the same shift, out of the head and into the body: massage (sport, relaxation,
+energetic), Reiki, and breathwork coaching. Different treatments, same underlying transition
+(see the plain-language promise below for the concrete, per-treatment version of it).
+
+The buying path: a single massage is the low-risk first step. Trust builds over repeat
+massage visits until someone is ready to go deeper, into the "Dreieck" (massage, energetic
+work, breathwork) and eventually real breathwork. Not every breathwork session goes as deep as
+Katja's own first journey; depth is matched to what the person can carry that day.
 
 ## Your plain-language promise (filled in STEP 1B)
 <!-- The answer you gave when the skill played your buyer and refused every abstraction.
@@ -158,4 +229,8 @@ ist die konkrete Version davon.)
 > Every time the skill gets your voice wrong and you correct it, add the correction here.
 > This is what makes the skill yours and not a generic chatbot. Append, never overwrite.
 
-- (setup) first correction goes here
+- (2026-09-06, setup) Fingerprint played back after 4 real samples (2 Instagram posts, 2 raw
+  unedited messages about her kids and her own humor). Katja's response: "super, nichts ist
+  daneben" — confirmed accurate with zero corrections on the first pass. Nothing to fix yet;
+  next real test is whether drafted copy still sounds like her once it's in her business voice,
+  not just personal writing.
