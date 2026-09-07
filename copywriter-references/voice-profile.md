@@ -231,6 +231,12 @@ ist die konkrete Version davon.)
 ## Your proof (real only)
 <!-- real numbers with timeframes, real client results, real testimonials. Never invent. -->
 
+## What resonates with your audience (Step 4 — known gap)
+No real performance data yet (opens, clicks, likes, comments) — By Katja hasn't gone public
+yet and no tracking exists, per business.md's own gap list. Not a missing setup step, just the
+honest current state. Revisit this once real emails/posts go out; `/review` is the place to
+log what performed once there's something real to log.
+
 ---
 
 ## Corrections log
