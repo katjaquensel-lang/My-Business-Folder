@@ -204,13 +204,14 @@ massage visits until someone is ready to go deeper, into the "Dreieck" (massage,
 work, breathwork) and eventually real breathwork. Not every breathwork session goes as deep as
 Katja's own first journey; depth is matched to what the person can carry that day.
 
-**Her promise (confirmed, Step 3B):** "Du merkst früher, wenn dein Körper anspannt, und weißt,
-wie du selbst wieder entspannst, egal ob mit Atem, Bewegung oder einfach, indem du dich mit der
-Emotion hinsetzt." Took two rejected drafts to get here — the first version leaned on process
-language ("Nervensystem regulieren"), the second overfit to a single scene (the ex-partner
-conflict). This version is general, physical, and closes on her own real image (sitting down
-with the emotion, from her meditation-cushion story in "Your one person" above), not a
-borrowed phrase.
+**Her promise (confirmed, Step 3B, final wording):** "Du merkst früher, wenn dein Körper
+anspannt, und weißt, wie du selbst wieder entspannst, egal ob mit Atem, Bewegung oder einfach,
+indem du dich mit der Emotion hinsetzt und diese fühlst." Took two rejected drafts to get
+here — the first version leaned on process language ("Nervensystem regulieren"), the second
+overfit to a single scene (the ex-partner conflict). This version is general, physical, and
+closes on her own real image (sitting down with the emotion and actually feeling it, from her
+meditation-cushion story in "Your one person" above), not a borrowed phrase. "Und diese
+fühlst" was a late addition she asked for after the rest was already confirmed.
 
 ## Your plain-language promise (filled in STEP 1B)
 <!-- The answer you gave when the skill played your buyer and refused every abstraction.
