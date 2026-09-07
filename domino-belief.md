@@ -54,6 +54,16 @@ unbestätigter Ansatzpunkt dafür aus dem Gespräch: "bei einer schwierigen Emot
 statt automatisch zu reagieren, sich zu rechtfertigen oder zu verteidigen" (aus ihrem eigenen
 gelebten Beispiel in `my-one-person.md`), aber Katja hat dem noch nicht zugestimmt.
 
+Zweiter Versuch, ein Promise-Vorschlag ("bei einer schwierigen Emotion bleiben...") daraus zu
+bauen, wurde von Katja abgelehnt: zu eng an eine einzelne Szene (den Ex-Partner-Konflikt)
+angelehnt, klingt nicht wie etwas, das sie tatsächlich so sagen würde. Ihre eigene Korrektur,
+wieder Vehicle-Material, diesmal noch klarer und allgemeiner: "Ich biete Body und Breathwork,
+beides verschieden und doch miteinander verbunden, kann die unterschiedlichsten Resultate
+liefern je nach Einstieg. Im Groben reguliere ich das Nervensystem, ob nun mit Massagen, Yoga
+oder Atem." Ergänzt (nicht ersetzt) das "tiefere Lagen"-Material von gestern; beides beschreibt
+denselben Mechanismus aus zwei Blickwinkeln. Starkes Fundament für Frage 2 morgen. Das
+Versprechen selbst ist nach diesem zweiten Ablehnen weiterhin offen.
+
 ## Solange das hier NOT_YET ist
 
 Die Commands (`/newsletter`, `/sales-email`, `/sales-page`, `/social`) funktionieren trotzdem
