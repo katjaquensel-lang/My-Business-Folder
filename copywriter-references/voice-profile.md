@@ -167,19 +167,19 @@ self-deprecating humor as something she values, not a flaw to manage. Humor shou
 grounded and substantive ("mit Hand und Fuß"), never instead of substance, with a "knipoog"
 worked in where it fits, not as a bit.
 
-On facilitation (surfaced live during the /social test, Step 7): she thinks other breathwork
-facilitators over-intervene, believing that more cheering, more hands-on prompting, more
-"fiddling with" the person produces more result. Her own approach is the opposite: her job is
-to guard the space and stay out of it, not to touch, steer, or push. Trust is what lets someone
-reach for her hand mid-session, not encouragement from her. This is real vehicle-adjacent
-material too (ties to the "tiefere Lagen" and "Nervensystem regulieren, egal welcher Einstieg"
-notes in domino-belief.md) — worth revisiting when the domino belief work resumes.
+On facilitation (surfaced live during the /social test, Step 7), corrected version after her
+follow-up: her critique is NOT "never touch." Touch itself is sometimes a needed technique
+(a hand on the belly, a hold on the shoulders, releasing a sound stuck in the throat) — real,
+legitimate "Griffe" she uses herself. Her actual point: some facilitators overdo it, believing
+more cheering, more hands-on prompting, more intervening produces more result. Her own summary:
+"Zu viel ist nicht gut." Her job is to guard the space and only do as much as is genuinely
+needed, not to escalate out of ego. Vehicle-adjacent material (ties to "tiefere Lagen" and
+"Nervensystem regulieren, egal welcher Einstieg" in domino-belief.md) — worth revisiting when
+domino belief work resumes.
 
-Her own words for it, strong and specific: "Es widert mich an, ganz plump gesagt." What she's
-naming in some films/posts from other facilitators: **"spirituelles Ego."** A real, sharp,
-usable phrase, hers, not invented. Intensity noted as-is; whether "es widert mich an" itself
-belongs in public-facing copy or stays as her private view is a craft call to make per piece,
-not a voice correction.
+PRIVATE ONLY, never publish: "Es widert mich an" and "spirituelles Ego" were said to explain
+her thinking, explicitly NOT for public copy ("das soll absolut nicht öffentlich werden"). Keep
+for context on how strongly she feels, never quote or paraphrase either phrase in a real piece.
 
 ---
 
