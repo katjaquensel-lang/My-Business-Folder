@@ -7,7 +7,8 @@ done, instead of getting lost in a chat thread.
 
 `content/<format>/YYYY-MM-DD-kurztitel.md`
 
-- `<format>` is one of: `newsletter`, `sales-email`, `sales-page`, `social`
+- `<format>` is one of: `newsletter`, `sales-email`, `sales-page`, `social`, `website` (for
+  homepage/about copy and other website text that doesn't fit the four commands)
 - date first, so files sort chronologically
 - a short, lowercase, hyphenated title after the date
 
