@@ -271,6 +271,16 @@ log what performed once there's something real to log.
   daneben" — confirmed accurate with zero corrections on the first pass. Nothing to fix yet;
   next real test is whether drafted copy still sounds like her once it's in her business voice,
   not just personal writing.
+- (2026-09-12, bio attempt) First website bio, assembled from Week 1 brain facts plus a few
+  dictated sentences (Path B style, interview-and-assemble), was rejected wholesale: "oberflächlich,
+  nicht ausm Herzen." Not a voice-detail fix, a process lesson: for something this personal
+  (her own founder story, her own hardship), assembling from fragments and known facts isn't
+  enough, even when every fact is accurate and the fingerprint patterns are followed. She needs
+  to write the raw version herself first (Path A), then the skill shapes and sharpens it. Contrast
+  with the /social post on 2026-09-08, which she loved: that one started from something she had
+  just lived and told fresh, not from older biographical facts assembled after the fact. Rule for
+  future personal/founder-story pieces: push for Path A here, don't default to interviewing and
+  assembling from the brain files alone.
 - (2026-09-08, first /social test) A hook that read fine in German ("Halt fest," an imperative,
   staged as a dramatic quote) read as "te dik opgedragen" (too thick, soap-opera-ish) once
   translated to Dutch. Rule, not a one-off: German and Dutch don't carry the same drama
