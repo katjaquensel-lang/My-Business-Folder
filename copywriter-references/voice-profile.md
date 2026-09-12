@@ -243,6 +243,14 @@ ist die konkrete Version davon.)
 <!-- What you used to believe and what you do differently now. This is YOUR story, and it is
      not your domino belief. The domino belief lives in domino-belief.md. -->
 
+Surfaced live while writing her first website bio (2026-09-12), after she read out a reference
+bio (someone else's, not hers — studied for structure only, per "study never copy" in
+operating-rules.md; its "ruim twintig jaar in de zorg" and "sound-healing" training don't match
+her real background and were not used). Her own answer to why the work matters to her: "Ich
+möchte Menschen das weitergeben, was ich selbst erfahren habe in meiner gesamten persönlichen
+Entwicklung." Ties directly to her real turning-point story in "Your one person" above — she is
+her own proof.
+
 ## Your proof (real only)
 <!-- real numbers with timeframes, real client results, real testimonials. Never invent. -->
 
