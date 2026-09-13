@@ -38,6 +38,14 @@ Ziel-Modell: das "Dreieck" aus Massage, energetischer Massage/Reiki und Atemarbe
 
 Aus dem Finanzmodell (Tabellenblatt "Groepslessen"): Katja hat Yoga-Gruppenstunden durchgerechnet, €25/Teilnehmer:in, max. 5 Personen im Raum bei Stories, Raummiete €20/Stunde. Ab 4 Teilnehmer:innen ist eine Gruppenstunde profitabler als eine Einzelbehandlung (~€86,78 vs. ~€54,71 Ertrag). Katja will damit aber bewusst **erst später starten**, aktuell nur eine bestätigte Kalkulation, kein aktiver Plan.
 
+## Geplanter Workshop: Aftrap-Workshop "Atem" (Pilot, intern)
+
+90-minütiger Workshop für max. 15 interne Coach-Kolleg:innen aus demselben Gebäude, den Katja
+als Auftakt einer Reihe hält, die mit zwei weiteren Ademcoaches abwechselt. Ziel: Lust auf die
+nächste Session, nicht maximales Wissen vermitteln. Voller Ablauf (Vorgeplänkel, Wechselatmung,
+Wim-Hof-Atmung, Sicherheitsrahmen) in `workshop-atem-pilot.md`, mit `/strategy` entwickelt am
+2026-09-13.
+
 ## Offene Punkte / Gaps (Hausaufgabe, in Prioritätsreihenfolge)
 
 1. **Sichtbar werden.** Der größte Hebel: das Netzwerk direkt ansprechen und auf Instagram aktiv werden. Voraussetzung laut Katja: der richtige, standfeste Ton (siehe voice-and-standards.md) — das ist jetzt vorhanden und kann genutzt werden.
