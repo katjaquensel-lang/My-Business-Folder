@@ -12,9 +12,10 @@ noch offen).
 Duurtraining tijdens het zwemmen: lange, rustige ademhalingen. Bij de sprint: bijna geen adem,
 net genoeg om je hoofd onder water te houden terwijl je armen en benen het werk doen.
 
-Zo begon mijn fascinatie voor de adem, lang voordat ik wist dat daar zelfs een eigen
-yogadiscipline voor bestaat: pranayama, een van de acht ledematen van Patanjali. Lang voordat
-ik wist dat je met bepaalde ademtechnieken emoties, blokkades en spanning kunt loslaten.
+Zo begon mijn fascinatie voor de adem, lang voordat ik wist dat daar een naam voor bestaat:
+pranayama, de bewuste sturing van de adem, een centraal onderdeel van de yogapraktijk en het
+vierde onderdeel van het achtvoudige yogapad volgens Patañjali. Lang voordat ik wist dat je met
+bepaalde ademtechnieken emoties, blokkades en spanning kunt loslaten.
 Holotropic Breathing bijvoorbeeld opent de toegang tot het onderbewuste. Het voelt bijna als
 een droom en maakt het makkelijker om aan een ademreis te beginnen en echt bij je eigen
 emoties te komen.
@@ -43,10 +44,10 @@ bent?
 Ausdauertraining beim Schwimmen: lange, ruhige Atemzüge. Beim Sprint: kaum ein Atemzug, nur
 damit der Kopf unter Wasser bleiben kann und die Arme und Beine ihre Arbeit tun.
 
-So fing meine Faszination für den Atem an, lange bevor ich wusste, dass es dafür sogar eine
-eigene Yogadisziplin gibt: Pranayama, eins der acht Glieder von Patanjali. Lange bevor ich
-wusste, dass man mit bestimmten Atemtechniken Emotionen, Blockaden und Spannungen freien Lauf
-lassen kann. Holotropic Breathing zum Beispiel öffnet den Zugang zum Unterbewusstsein. Es
+So fing meine Faszination für den Atem an, lange bevor ich wusste, dass es dafür einen Namen
+gibt: Pranayama, die bewusste Führung des Atems, ein zentraler Bestandteil der Yogapraxis und
+das vierte Glied des achtgliedrigen Yogawegs nach Patañjali. Lange bevor ich wusste, dass man
+mit bestimmten Atemtechniken Emotionen, Blockaden und Spannungen freien Lauf lassen kann. Holotropic Breathing zum Beispiel öffnet den Zugang zum Unterbewusstsein. Es
 fühlt sich fast wie ein Traum an und macht es leichter, in eine Atemreise einzusteigen und
 wirklich bei den eigenen Emotionen anzukommen.
 
@@ -77,3 +78,6 @@ Kennst du das, dieses Gefühl, wenn plötzlich alles still wird und du wieder be
   überprüfbaren Punkt zu Holotropic Breathing, statt einer großen, unbelegten Behauptung.
 - "Der Atem... wir können ihn steuern" ergänzt um "und damit bewusst beeinflussen, wie wir
   uns fühlen", auf Katjas Wunsch.
+- Fachlich korrigiert (2026-09-13, beim Bild-Feedback aufgefallen): Pranayama ist keine eigene
+  "Yogadisziplin", sondern die bewusste Atemführung, ein zentraler Teil der Yogapraxis und das
+  vierte Glied des achtgliedrigen Yogawegs nach Patañjali. In beiden Sprachversionen korrigiert.
