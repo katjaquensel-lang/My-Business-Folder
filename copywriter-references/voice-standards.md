@@ -96,6 +96,10 @@ help) or similar tired coaching language, wherever it fits and feels real.
 ## Your personal removals (filled during setup)
 <!-- anything above that is actually part of your real voice, so the skill stops flagging it -->
 
-None. Asked directly whether anything on the combined list is actually part of her real voice
-(Step 3 gegencheck) — nothing came back, and nothing in the 4 confirmed voice samples
-contradicts the list either. Recheck once real business-voice samples come in.
+None from initial setup (Step 3 gegencheck came back empty). Added later:
+
+- (2026-09-13) **"Blockaden"** — flagged as generic energy-work jargon in Step 1B and again
+  while drafting the Atem/breathwork post, but Katja reached for it herself, unprompted, both
+  times. Her own call: "nehmen wir wieder rein, weil ich einfach nicht weiß, wie ich das noch
+  umschreiben kann." Two independent, unprompted uses is a real pattern, not a slip. Stop
+  flagging this word; it's hers.
