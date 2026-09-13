@@ -1,5 +1,10 @@
 # Social — Instagram (Grow)
 
+Zusätzlich als Karussell (8 Folien) aufbereitet, damit der Text nicht als Kommentar drunter
+steht: Folie 1 mit Foto, Folien 2-8 in der zu Folie 1 passenden Farbe (aus dem Foto abgeleitet).
+Live-Canvas: https://claude.ai/code/artifact/2c97044d-b441-430b-9c84-cb9c03d38634
+Alle 8 fertigen PNGs (1080×1350) sind Katja bereits als Dateien geschickt worden.
+
 Zweiter Live-Post. Job: Grow (neue Menschen anlocken, Interesse wecken, das Gefühl "das hab ich
 auch schon erlebt" auslösen). Domino Belief war beim Schreiben noch nicht gesetzt (STATUS:
 NOT_YET in `domino-belief.md`), dieser Post arbeitet also ohne festes Rückgrat.
