@@ -14,9 +14,9 @@ We werken met bewuste, intense ademhaling die je voorbij je hoofd naar diepere l
 brengen. Wat daarbij loskomt, is verschillend. Emoties die vastzitten, komen vrij door geluid of
 beweging. Ik houd daarbij de ruimte en begeleid je, je bent nooit alleen daarmee.
 
-Op donderdag 1 oktober nodig ik je uit, in kleine kring: 18:30 tot 20:30 uur, in de ruimte bij
-Stories. Anderhalf uur ademreis, een half uur bewust landen erna, je hoeft niet meteen weer de
-wereld in.
+Op donderdag 1 oktober nodig ik je uit, in kleine kring: 18:30 tot 20:30 uur, bij Stories
+Eindhoven, Vestdijk 23. Anderhalf uur ademreis, een half uur bewust landen erna, je hoeft niet
+meteen weer de wereld in.
 
 Minimaal drie, maximaal vijf vrouwen, 44 euro. Meld je aan vóór 27 september, via DM, WhatsApp
 of mail (katja@bykatja.nl), dan bevestig ik je de afspraak.
@@ -25,8 +25,8 @@ Voel jij dat dit nu aan de beurt is?
 
 ## Niederländisch, kurz (Bildtext, WhatsApp Status + Instagram)
 
-Ademreis. Donderdag 1 oktober, 18:30–20:30 uur, in de ruimte bij Stories. Minimaal drie,
-maximaal vijf vrouwen, 44 euro. Aanmelden vóór 27 september via DM, WhatsApp of mail
+Ademreis. Donderdag 1 oktober, 18:30–20:30 uur, bij Stories Eindhoven, Vestdijk 23. Minimaal
+drie, maximaal vijf vrouwen, 44 euro. Aanmelden vóór 27 september via DM, WhatsApp of mail
 (katja@bykatja.nl).
 
 Voel jij dat dit nu aan de beurt is?
@@ -41,9 +41,9 @@ bringen kann. Was dabei hochkommt, ist unterschiedlich. Emotionen, die feststeck
 Geräusche oder Bewegung frei. Ich halte dabei den Raum und begleite dich, du bist nie allein
 damit.
 
-Am Donnerstag, den 1. Oktober, lade ich dazu ein, in kleiner Runde: 18:30 bis 20:30 Uhr, im Raum
-bei Stories. Eineinhalb Stunden Atemreise, eine halbe Stunde bewusst zum Landen danach, du
-musst nicht direkt wieder raus in die Welt.
+Am Donnerstag, den 1. Oktober, lade ich dazu ein, in kleiner Runde: 18:30 bis 20:30 Uhr, bei
+Stories Eindhoven, Vestdijk 23. Eineinhalb Stunden Atemreise, eine halbe Stunde bewusst zum
+Landen danach, du musst nicht direkt wieder raus in die Welt.
 
 Minimal drei, maximal fünf Frauen, 44 Euro. Melde dich bis zum 27. September an, per DM,
 WhatsApp oder Mail (katja@bykatja.nl), dann bestätige ich dir den Termin.
@@ -52,8 +52,8 @@ Spürst du, dass das jetzt dran ist?
 
 ## Deutsch, kurz (Arbeitsversion, Bildtext)
 
-Atemreise. Donnerstag, 1. Oktober, 18:30–20:30 Uhr, im Raum bei Stories. Minimal drei, maximal
-fünf Frauen, 44 Euro. Anmeldung bis 27. September per DM, WhatsApp oder Mail
+Atemreise. Donnerstag, 1. Oktober, 18:30–20:30 Uhr, bei Stories Eindhoven, Vestdijk 23. Minimal
+drei, maximal fünf Frauen, 44 Euro. Anmeldung bis 27. September per DM, WhatsApp oder Mail
 (katja@bykatja.nl).
 
 Spürst du, dass das jetzt dran ist?
