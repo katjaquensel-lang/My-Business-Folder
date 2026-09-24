@@ -84,6 +84,10 @@ fühlt sich das für dich an?" and similar. Not because feeling doesn't matter (
 core of the work), but because the phrase itself is a worn-out spiritual-coach cliché. Say
 concrete body sensations and feelings instead, grounded, never floaty.
 
+**Added 2026-09-24:** "gedragen door" (Dutch, "carried by") — same floaty spiritual-coach
+territory as the pet peeve above, Katja's own call while reviewing a post draft. Use "begeleid
+door" instead (ties to the existing "begeleiten, not helfen" word choice below).
+
 **Word choice, not a ban but binding:** "begleiten" (to accompany/guide), never "helfen" (to
 help) or similar tired coaching language, wherever it fits and feels real.
 
