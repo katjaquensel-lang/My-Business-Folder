@@ -64,6 +64,21 @@ oder Atem." Ergänzt (nicht ersetzt) das "tiefere Lagen"-Material von gestern; b
 denselben Mechanismus aus zwei Blickwinkeln. Starkes Fundament für Frage 2 morgen. Das
 Versprechen selbst ist nach diesem zweiten Ablehnen weiterhin offen.
 
+Drittes Stück Material (2026-09-26, beim Vorbereiten des Atem-Workshops aufgetaucht): Katjas
+Kernaussage "mit unserem Atem steuern wir, wie wir uns fühlen" gilt in beide Richtungen, nicht
+nur beruhigend. Über das Atemtempo steuert man das CO₂, und das CO₂ ist das Signal, auf das
+das Nervensystem reagiert, Richtung Ruhe (langsam, gleichmäßig, Vagusnerv) oder Richtung
+Aktivierung (schnell, tief, Sympathikus/Adrenalin, wie bei Wim Hof). Katjas eigene Sorge dabei:
+"Aktivierung/Adrenalin" klingt erstmal nach unerwünschtem Stress. Ihre eigene Auflösung dafür:
+es ist nicht ungewollter Stress, sondern eine bewusst gewählte, kurze, kontrollierte
+Aktivierung, das Nervensystem übt dabei "da rein, und selbst wieder raus" zu gehen, dieselbe
+Fähigkeit wie bei ihrem bestätigten Promise, nur in der anderen Richtung geübt. Mögliche
+Formulierung, noch nicht gegen den Strip-away-Test geprüft: "Bei Wim Hof gehst du bewusst in
+denselben Zustand, den dein Körper auch bei echtem Stress kennt, nur freiwillig und kurz. Dein
+Nervensystem übt dabei genau das, was es bei echtem Stress oft verlernt hat: da rein, und
+selbst wieder raus." Passt zum "Nervensystem regulieren, egal welcher Einstieg"-Material oben,
+erweitert es um die aktivierende statt nur die beruhigende Richtung.
+
 ## Solange das hier NOT_YET ist
 
 Die Commands (`/newsletter`, `/sales-email`, `/sales-page`, `/social`) funktionieren trotzdem
