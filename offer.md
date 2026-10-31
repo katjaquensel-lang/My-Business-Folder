@@ -19,6 +19,19 @@ Marke: **By Katja**, Claim: "Body · Breath · Being". Standort: Niederlande, ta
 
 **Neue Struktur auf der Website (Oktober 2026, in Arbeit):** Sportmassage, Bindegewebs-/Faszienmassage und Triggerpoint laufen künftig gebündelt unter **Massagetherapie** (erst Intake/Observation, dann passende Techniken). Ziel: keine separate Preisliste pro Massageart, klareres Angebot. Daneben separat: Ontspanningsmassage, Buikmassage (neu, Methode: Chi Nei Tsang), Lymfedrainage (neu). Preise Massagetherapie entschieden (Oktober 2026): 30min €45 (ein Körperbereich, z.B. Nacken/Schultern) / 60min €80 (mehrere Bereiche) / 90min €115 (Ganzkörper), inkl. BTW. €35 für 30min wurde erwogen und bewusst verworfen (2×30 wäre günstiger als 60, Marge, Positionierung). Idee für Zugänglichkeit, noch nicht entschieden: Kennenlernpreis, Rittenkaart oder einzelne Sozialtarif-Termine. Offen: wie Energetische Massage und Reiki in die neue Struktur passen. Website-Entwurf: `website/massagetherapie.md`.
 
+**NEUE PREISLISTE (Plan, Oktober 2026), ersetzt die Einzelauflistung oben nach den Kursen:**
+Sportmassage wird nicht mehr einzeln aufgeführt, sie steckt in der Massagetherapie.
+- Massagetherapie: 30min €45 (ein Bereich) / 60min €80 (mehrere Bereiche) / 90min €115 (Ganzkörper). Bestätigt.
+- Ontspanningsmassage: 60min €70 / 90min (Vorschlag €100). 30min fällt weg.
+- Buikmassage (Chi Nei Tsang): Kurs Anfang November 2026. Dauer und Preis danach festlegen (Vorschlag 60min €80; im Kurs Dauer und Aufbau erfragen).
+- Lymfedrainage: Kurs ca. Mitte November 2026. Danach festlegen (Vorschlag 30min €45 ein Bereich / 60min €80 Ganzkörper; Marktspanne NL 30min €40-60, 60min €55-90).
+- Energetische Massage: 60min €75 / 90min €110 (alte Preise, noch bestätigen).
+- Reiki: 60min €75 (noch bestätigen), auch Reiki op afstand (Preis offen).
+- Ademcoaching €110 / Verdiepende ademcoaching €175: unverändert.
+- Yoga-Gruppenstunde €25; Yogatherapie (Einzel): Dauer und Preis offen.
+- Offen: Stornierungsregeln.
+Nach den Kursen: Preisliste und Seite "Tarieven en boeken" mit Claude finalisieren. Bestehende Kund:innen: alter Preis bis Ende Dezember, neue Preise ab Januar 2027 (Praxisstart).
+
 **Hausbesuch:** möglich ab 60 Minuten, €10 innerhalb 15km, danach €0,40/km.
 
 **Geplant, noch nicht gestartet:** Yoga-Gruppenstunden, €25/Teilnehmer:in, max. 5 Personen. Bewusst erst für später vorgesehen, aktuell nur kalkuliert (siehe business.md).
