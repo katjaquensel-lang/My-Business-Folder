@@ -7,7 +7,7 @@ Status: Entwurf, Oktober 2026. Offen: Ort [plaats], Foto von Katja.
 ## By Katja · Body · Breath · Being
 
 **Kom uit je hoofd en weer terug in je lichaam.**
-Met yoga, massage en ademwerk.
+Met yoga, massage, ademwerk en reiki.
 
 ---
 
@@ -27,6 +27,10 @@ Eerst kijken, dan behandelen. Een massage die past bij wat jouw lichaam op dat m
 ### Ademcoaching
 Je adem is de directe toegang tot je zenuwstelsel. Je leert hem bewust te gebruiken, om rustig te worden, scherp te zijn of dieper te gaan.
 [Meer over ademcoaching]
+
+### Reiki & energetisch werk
+Rust voor je zenuwstelsel, zodat je lichaam zelf kan herstellen. Met reiki of een intuïtieve, energetische massage.
+[Meer over reiki]
 
 ---
 
