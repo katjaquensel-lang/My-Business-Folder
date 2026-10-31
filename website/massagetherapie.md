@@ -33,5 +33,16 @@ Massagetherapie is voor je als je last hebt van vaste schouders en nek, een stij
 
 Na de behandeling zijn je spieren ontspannen en beter doorbloed. Je beweegt makkelijker. En vaak merk je nog iets: je zit minder in je hoofd en meer in je lijf. Je adem wordt rustiger, je schouders zakken.
 
+## Ook bij mij
+
+**Ontspanningsmassage**
+Geen klacht, wel behoefte aan rust? Een ontspanningsmassage werkt met lange, vloeiende bewegingen en zachte druk. Er hoeft niets opgelost te worden. Je ligt, je laat los, en je lichaam mag even helemaal niets.
+
+**Buikmassage**
+In je buik zit vaak meer spanning dan je denkt. Bij stress of zorgen houden veel mensen hun buik onbewust vast, en ook je spijsvertering reageert daarop. Met rustige, ronde bewegingen maak ik je buik weer zacht. Je adem zakt vanzelf lager en je wordt rustiger.
+
+**Lymfedrainage**
+Je lymfesysteem voert overtollig vocht en afvalstoffen af. Met zachte, ritmische bewegingen over de huid stimuleer ik die afvoer. Fijn bij zware of vermoeide benen, als je vocht vasthoudt of na een periode van weinig beweging. Heb je medische lymfeklachten, zoals lymfoedeem na een operatie, dan is een gespecialiseerde fysiotherapeut de juiste plek.
+
 Massagetherapie · 30, 60 of 90 minuten · vanaf €45
 **[Bekijk tarieven en plan je afspraak]**
