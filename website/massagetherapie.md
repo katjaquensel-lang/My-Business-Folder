@@ -42,7 +42,7 @@ Geen klacht, wel behoefte aan rust? Een ontspanningsmassage werkt met lange, vlo
 Chi Nei Tsang is een buikmassage uit de taoïstische traditie van het oude China. In je buik zit vaak meer spanning dan je denkt: van stress, van zorgen, van emoties die je hebt weggestopt. Met zachte, aandachtige aanraking maak ik die spanning los. Dat merk je in je spijsvertering, in je adem en in hoe je je voelt. Veel mensen ervaren daarna ruimte en rust in hun buik, en een adem die vanzelf dieper zakt.
 
 **Lymfedrainage**
-Je lymfesysteem voert overtollig vocht en afvalstoffen af. Met zachte, ritmische bewegingen over de huid stimuleer ik die afvoer. Fijn bij zware of vermoeide benen, als je vocht vasthoudt of na een periode van weinig beweging. Heb je medische lymfeklachten, zoals lymfoedeem na een operatie, dan is een gespecialiseerde fysiotherapeut de juiste plek.
+Je lymfestelsel voert overtollig vocht en afvalstoffen af, zodat je cellen in een schone omgeving kunnen werken. Dat gebeurt vanzelf, gestuurd door je zenuwstelsel. Stress, ziekte of een blessure kunnen die afvoer vertragen. Je benen voelen zwaar, je houdt vocht vast of een zwelling blijft langer zitten. Met heel zachte, ritmische grepen ondersteun ik je lichaam om dat vocht weer af te voeren. Bij medisch oedeem, bijvoorbeeld na een kankerbehandeling, overleg je eerst met je arts.
 
 Massagetherapie · 30, 60 of 90 minuten · vanaf €45
 **[Bekijk tarieven en plan je afspraak]**
