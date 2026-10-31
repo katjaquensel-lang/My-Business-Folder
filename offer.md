@@ -28,7 +28,7 @@ Sportmassage wird nicht mehr einzeln aufgeführt, sie steckt in der Massagethera
 - Energetische Massage: 60min €75 / 90min €110 (alte Preise, noch bestätigen).
 - Reiki: 60min €75 (noch bestätigen), auch Reiki op afstand (Preis offen).
 - Ademcoaching €110 / Verdiepende ademcoaching €175: unverändert.
-- Yoga-Gruppenstunde €25; Yogatherapie (Einzel): Dauer und Preis offen.
+- Yoga (Oktober 2026 entschieden): Probestunde €10 (wird bei Kauf von Abo/Rittenkaart angerechnet), Einzelstunde €25, Rittenkaart 10 Stunden €220 (ca. 4 Monate gültig), Monatsabo 1×/Woche €80, 2×/Woche €140. Gratis Eröffnungsstunde im Januar 2027. Anmeldeformular mit Gesundheitsfragen, Bedingungen, AVG. Im Schnitt ca. €19,55 pro Teilnahme (Mix 40% Rittenkaart, 50% Abo, 10% einzeln/Probe). Yogatherapie (Einzel): Dauer und Preis offen.
 - Offen: Stornierungsregeln.
 Nach den Kursen: Preisliste und Seite "Tarieven en boeken" mit Claude finalisieren. Bestehende Kund:innen: alter Preis bis Ende Dezember, neue Preise ab Januar 2027 (Praxisstart).
 
