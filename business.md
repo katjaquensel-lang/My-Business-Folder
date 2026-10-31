@@ -41,6 +41,13 @@ Geplante Yoga-Stunden (je 60 min, mit Atem und Meditation): Yin mit Elementen au
 
 **Zeitplan (Oktober 2026):** Website im November fertig, online spätestens 1. Dezember 2026. Ab 1. Dezember Werbung: Flyer, persönliche WhatsApp-Nachrichten, Instagram, Gesundheitshaus. Interesse-Formular für Yoga (`website/interesse-formulier.md`) ist dabei der zentrale Link. Eine externe Person soll die Website noch verfeinern.
 
+**Finanzplan-Input (Oktober 2026):**
+- Praxis: Miete €782,17/Monat (Katja nannte vorher €800 inkl. Strom/Gas, noch klären). Kaution/Startkosten €1.964 (2 Monatsmieten Kaution + €400 einmalig für Intercom, Internet und Schlüssel), aus Ersparnissen bezahlt. Elektrische Behandlungsliege steht im Raum zur Verfügung. Yogamaterial vorhanden, nur kleine Einrichtungskosten (z.B. Raumteiler). Flyer: geringe Kosten.
+- Website: bei Squarespace bereits angelegt. Webdesign-Angebot €999 (Anpassung bestehender Website), Neubau ab ca. €1.699. Katja will verhandeln und kann viel selbst machen.
+- Lebensbedarf privat: €3.000 netto/Monat (Wohnung, Essen, Kinder, Versicherungen, Energie). Die Praxiskosten kommen zusätzlich, als Geschäftskosten.
+- UWV-Startperiode (startersregeling): Katja bezieht WW (70% vom früheren Lohn, Lohn ca. €2.900, brutto/netto noch klären). In der Startperiode (6 Monate) wird die WW pauschal um 29% gekürzt, Einkünfte aus dem Unternehmen werden nicht verrechnet. Danach wird die WW nach gearbeiteten Stunden gekürzt.
+- Kritik des UWV-Beraters am alten Plan: €3.000 netto aus Behandlungen allein (zu viele Behandlungen pro Woche) war nicht schlüssig. Der neue Plan muss zeigen: realistischer Aufbau, WW in der Startperiode eingerechnet, und ab ca. Monat 7 trägt das Unternehmen sich selbst. Yoga-Gruppen machen das deutlich realistischer als nur Einzelbehandlungen.
+
 ## Geplanter Kundenweg (noch nicht aktiviert)
 
 - Instagram
