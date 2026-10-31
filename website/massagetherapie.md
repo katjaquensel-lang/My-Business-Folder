@@ -1,7 +1,7 @@
 # Website: Massagetherapie (NL)
 
 Status: Entwurf, Oktober 2026. Unterseite nach "Over mij" und "Ademtherapie".
-Tarife sind ein Vorschlag (übernommen von der bisherigen Sportmassage), bitte prüfen.
+Tarife bestätigt (Oktober 2026).
 
 ---
 
