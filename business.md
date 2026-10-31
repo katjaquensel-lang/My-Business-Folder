@@ -33,6 +33,12 @@ Grobe Rechnung: bei €25 pro Person (inkl. BTW) braucht es 32 Teilnahmen pro Mo
 
 Geplante Yoga-Stunden (je 60 min, mit Atem und Meditation): Yin mit Elementen aus Hormonyoga (Arbeitstitel "Yin & Balans"), Easy Flow (dynamischer), Adem & Meditatie. Außerdem Yogatherapie (Einzel, mit Atem und Meditation), Anlass: eine Anfrage zur Arbeit mit Menschen mit NAH (niet-aangeboren hersenletsel), die in ihrer Mobilität eingeschränkt sind. "Yin & Balans" ist bestätigt: Zielgruppe alle Frauen, vor allem in den Wechseljahren, auch Kinderwunsch; nicht in der Schwangerschaft. Schwangerschaftsyoga ist für später geplant, erst nach einer Zusatzausbildung. Website-Entwurf: `website/yoga.md`.
 
+**Ergänzung (Oktober 2026):**
+- Stories-Mitgliedschaft läuft bis einschließlich Februar 2027 und fällt danach weg (Katja findet das schade, eventuell lässt sich noch etwas regeln).
+- Die Praxis liegt in einem **holistischen Gesundheitshaus** mit Hormontherapeut:innen, Orthomolekular-Therapeut:in, holistischen Verloskundigen (Hebammen), Osteopath:in und Diätist:in. Die Verloskundigen würden sich über Schwangerschaftsyoga freuen. Großes Potenzial für gegenseitige Überweisungen (Hormontherapie → Yin & Balans, Osteopathie → Massagetherapie, Verloskundigen → Schwangerschaftsyoga).
+- Yoga hat Priorität, Stunden morgens und abends möglich, Anzahl pro Woche hängt vom Finanzplan ab. Investitionsreihenfolge laut Katja: erst Website, dann Miete.
+- Grobe Fixkosten neu: ca. €1.240/Monat (alte Fixkosten ohne Stories + €800 Miete), ohne Einmalkosten für Einrichtung/Material. Eine wöchentliche Yogastunde mit 5 Personen bringt ca. €396/Monat exkl. 21% BTW (46 Arbeitswochen/Jahr).
+
 ## Geplanter Kundenweg (noch nicht aktiviert)
 
 - Instagram
