@@ -1,11 +1,11 @@
-# Website: Ademtherapie (NL)
+# Website: Ademcoaching (NL)
 
 Status: Entwurf, Oktober 2026. Basiert auf Katjas eigenem Text, gekürzt und im Aufbau an die Seite Massagetherapie angepasst.
-Offen: Seitenname "Ademtherapie" oder "Ademcoaching".
+Seitenname entschieden: "Ademcoaching" (statt "Ademtherapie"), passend zum Angebot und weniger medizinisch.
 
 ---
 
-# Ademtherapie
+# Ademcoaching
 
 Mijn fascinatie voor de adem begon in het zwembad. Lange, rustige ademhalingen bij de duurtraining. Bijna geen adem bij de sprint. Later leerde ik er in de yoga een naam voor: pranayama, het bewust sturen van je adem.
 
