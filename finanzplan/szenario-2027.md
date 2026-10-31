@@ -1,6 +1,6 @@
 # Szenario 2027 (Entwurf, Oktober 2026)
 
-Grobe Monatsplanung für das erste Jahr in der eigenen Praxis. Kein Ersatz für das Excel-Modell oder den Buchhalter.
+Erste grobe Fassung. **Maßgeblich ist jetzt das Excel-Modell `finanzplan/Financieel-model-by-Katja-2027.xlsx`** (Blatt "Maandplanning 2027" und "Scenario's"), das mit den vollständigen Fixkosten (inkl. Insify €1.560) und dem neuen Dienstleistungsmix rechnet.
 
 ## Annahmen
 

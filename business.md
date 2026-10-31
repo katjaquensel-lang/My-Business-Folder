@@ -52,6 +52,7 @@ Geplante Yoga-Stunden (je 60 min, mit Atem und Meditation): Yin mit Elementen au
 - Arbeitszeit: Katja traut sich 40 Std./Woche zu, Ziel langfristig 32 Std. Davon sind realistisch ca. 20-25 Std. Kundenzeit, der Rest Verwaltung, Marketing, Vorbereitung, Fahrten.
 - Nebenjob möglich: Bewerbungsgespräch bei Sauna Deverana. Wichtig: Nebeneinkommen aus Anstellung und die Stunden muss sie dem UWV melden, es beeinflusst die WW.
 - Grobe Zielrechnung (vor Buchhalter-Check): für ca. €3.000 netto/Monat braucht es ca. €44.000 Gewinn/Jahr (ca. €3.700/Monat nach Geschäftskosten). Das entspricht z.B. 5 Yogastunden/Woche mit Ø 6 Personen + 10 Behandlungen/Woche, also ca. 15-17 Kundenstunden. Ziel: dieses Niveau ab ca. Juli 2027 (Ende Startperiode).
+- Excel-Modell 2027 (`finanzplan/Financieel-model-by-Katja-2027.xlsx`): Fixkosten €15.401/Jahr (€1.283/Monat). Mit 4 Yogastunden/Woche (Ø 6 Pers.) + 12 Behandlungen/Woche ca. €3.290 netto/Monat, mit 4 Yoga + 10 Behandlungen ca. €2.900. Also: ca. 4 Yogastunden + 11 Behandlungen pro Woche (ca. 18 Kundenstunden) für €3.000 netto. Monatsplan 2027: Gewinn vor Steuern ca. €31.000 + WW ca. €9.100.
 
 ## Geplanter Kundenweg (noch nicht aktiviert)
 
