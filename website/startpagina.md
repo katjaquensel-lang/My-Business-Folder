@@ -31,7 +31,7 @@ Je adem is de directe toegang tot je zenuwstelsel. Je leert hem bewust te gebrui
 ---
 
 ### Ik ben Katja
-Na ruim 25 jaar in de juridische sector maakte ik van mijn passie mijn beroep. Ik begeleid je terug naar ontspanning en vertrouwen in je eigen lichaam.
+Ruim 25 jaar zat ik in de juridische sector vooral in mijn hoofd. Nu maak ik van mijn passie mijn beroep. Ik begeleid je terug naar ontspanning en vertrouwen in je eigen lichaam.
 [Lees meer over mij]
 
 ---
