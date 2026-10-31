@@ -11,7 +11,7 @@ Mijn fascinatie voor de adem begon in het zwembad. Lange, rustige ademhalingen b
 
 Je adem is de directe toegang tot je zenuwstelsel. Adem je snel en hoog, dan staat je lichaam in de actiestand. Adem je langzaam en laag, dan komt het tot rust. Die knop kun je zelf bedienen.
 
-Mijn hond doet dat vanzelf. Rent hij, dan hijgt hij. Is de wandeling voorbij, dan ploft hij op de bank en wordt zijn adem weer rustig. Bij ons mensen gaat dat niet altijd zo. Veel mensen ademen de hele dag te snel en te hoog, zonder het te merken. Hun lichaam blijft in de actiestand staan, ook als dat helemaal niet nodig is.
+Kijk naar een hond. Na het rennen hijgt hij, op de bank wordt zijn adem vanzelf weer rustig. Bij ons mensen gaat dat niet altijd vanzelf. Veel mensen ademen de hele dag te snel en te hoog, zonder het te merken. Hun lichaam blijft in de actiestand staan, ook als dat helemaal niet nodig is.
 
 ## Eerst kijken, dan ademen
 
