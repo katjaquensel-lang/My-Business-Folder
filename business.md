@@ -25,6 +25,14 @@ Damit ist der Gap "realistisches Umsatzziel" geschlossen: **19-20 Behandlungen/W
 
 **Der eigentliche Engpass:** nicht Zeit, nicht Geld, sondern **zu wenige Anfragen**, weil Katja noch nicht öffentlich aufgetreten ist. Sie zögert bewusst, weil sie erst den richtigen, standfesten Umgangston finden möchte, um überzeugt von ihren Qualitäten zu wirken, bevor sie sichtbar wird. Das hängt direkt mit dem "ich versuche"-Muster aus voice-and-standards.md zusammen: solange die Sprache unsicher klingt, fühlt sich der öffentliche Auftritt riskant an.
 
+## NEU (Oktober 2026): eigene Praxis ab Januar 2027
+
+Katja mietet ab Januar 2027 eine eigene Praxis. Miete inkl. Strom und Gas: **€800/Monat (€9.600/Jahr)**. Platz für **8 Yoga-Teilnehmer:innen**. Dadurch rücken die **Yoga-Gruppenstunden an die erste Stelle**: sie sollen die Miete wieder reinholen. Das Finanzmodell (Excel) wird gerade angepasst; die Zahlen oben (u.a. Stories-Raummitgliedschaft, max. 5 Personen, Raummiete €20/Stunde) sind damit teilweise überholt.
+
+Grobe Rechnung: bei €25 pro Person (inkl. BTW) braucht es 32 Teilnahmen pro Monat für €800, also rund 8 pro Woche (z.B. eine volle Stunde mit 8 Personen oder zwei Stunden mit je 4). Die Massagen und das Ademcoaching in derselben Praxis tragen ebenfalls zur Miete bei.
+
+Geplante Yoga-Stunden (je 60 min, mit Atem und Meditation): Yin mit Elementen aus Hormonyoga (Arbeitstitel "Yin & Balans"), Easy Flow (dynamischer), Adem & Meditatie. Außerdem Yogatherapie (Einzel). Details offen.
+
 ## Geplanter Kundenweg (noch nicht aktiviert)
 
 - Instagram
