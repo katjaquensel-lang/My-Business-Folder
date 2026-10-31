@@ -38,8 +38,8 @@ Na de behandeling zijn je spieren ontspannen en beter doorbloed. Je beweegt makk
 **Ontspanningsmassage**
 Geen klacht, wel behoefte aan rust? Een ontspanningsmassage werkt met lange, vloeiende bewegingen en zachte druk. Er hoeft niets opgelost te worden. Je ligt, je laat los, en je lichaam mag even helemaal niets.
 
-**Buikmassage**
-In je buik zit vaak meer spanning dan je denkt. Bij stress of zorgen houden veel mensen hun buik onbewust vast, en ook je spijsvertering reageert daarop. Met rustige, ronde bewegingen maak ik je buik weer zacht. Je adem zakt vanzelf lager en je wordt rustiger.
+**Buikmassage (Chi Nei Tsang)**
+Chi Nei Tsang is een buikmassage uit de taoïstische traditie van het oude China. In je buik zit vaak meer spanning dan je denkt: van stress, van zorgen, van emoties die je hebt weggestopt. Met zachte, aandachtige aanraking maak ik die spanning los. Dat merk je in je spijsvertering, in je adem en in hoe je je voelt. Veel mensen ervaren daarna ruimte en rust in hun buik, en een adem die vanzelf dieper zakt.
 
 **Lymfedrainage**
 Je lymfesysteem voert overtollig vocht en afvalstoffen af. Met zachte, ritmische bewegingen over de huid stimuleer ik die afvoer. Fijn bij zware of vermoeide benen, als je vocht vasthoudt of na een periode van weinig beweging. Heb je medische lymfeklachten, zoals lymfoedeem na een operatie, dan is een gespecialiseerde fysiotherapeut de juiste plek.
