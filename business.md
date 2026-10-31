@@ -48,6 +48,11 @@ Geplante Yoga-Stunden (je 60 min, mit Atem und Meditation): Yin mit Elementen au
 - UWV-Startperiode (startersregeling): Katja bezieht WW (70% vom früheren Lohn, Lohn ca. €2.900, brutto/netto noch klären). In der Startperiode (6 Monate) wird die WW pauschal um 29% gekürzt, Einkünfte aus dem Unternehmen werden nicht verrechnet. Danach wird die WW nach gearbeiteten Stunden gekürzt.
 - Kritik des UWV-Beraters am alten Plan: €3.000 netto aus Behandlungen allein (zu viele Behandlungen pro Woche) war nicht schlüssig. Der neue Plan muss zeigen: realistischer Aufbau, WW in der Startperiode eingerechnet, und ab ca. Monat 7 trägt das Unternehmen sich selbst. Yoga-Gruppen machen das deutlich realistischer als nur Einzelbehandlungen.
 
+- Miete und Kaution ab 1. Januar 2027. Januar und Februar 2027 doppelte Raumkosten (Praxis + Stories), muss überbrückt werden.
+- Arbeitszeit: Katja traut sich 40 Std./Woche zu, Ziel langfristig 32 Std. Davon sind realistisch ca. 20-25 Std. Kundenzeit, der Rest Verwaltung, Marketing, Vorbereitung, Fahrten.
+- Nebenjob möglich: Bewerbungsgespräch bei Sauna Deverana. Wichtig: Nebeneinkommen aus Anstellung und die Stunden muss sie dem UWV melden, es beeinflusst die WW.
+- Grobe Zielrechnung (vor Buchhalter-Check): für ca. €3.000 netto/Monat braucht es ca. €44.000 Gewinn/Jahr (ca. €3.700/Monat nach Geschäftskosten). Das entspricht z.B. 5 Yogastunden/Woche mit Ø 6 Personen + 10 Behandlungen/Woche, also ca. 15-17 Kundenstunden. Ziel: dieses Niveau ab ca. Juli 2027 (Ende Startperiode).
+
 ## Geplanter Kundenweg (noch nicht aktiviert)
 
 - Instagram
