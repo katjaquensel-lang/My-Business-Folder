@@ -1,7 +1,7 @@
 # Website: Massagetherapie (NL)
 
 Status: Entwurf, Oktober 2026. Unterseite nach "Over mij" und "Ademcoaching".
-Tarife bestätigt (Oktober 2026).
+Tarife bestätigt (Oktober 2026). Praktische Infos (Dauer nach Körperbereich, Preise, Hausbesuch, Hinweis Hausarzt) wandern auf die Seite "Tarieven en boeken".
 
 ---
 
@@ -33,26 +33,5 @@ Massagetherapie is voor je als je last hebt van vaste schouders en nek, een stij
 
 Na de behandeling zijn je spieren ontspannen en beter doorbloed. Je beweegt makkelijker. En vaak merk je nog iets: je zit minder in je hoofd en meer in je lijf. Je adem wordt rustiger, je schouders zakken.
 
-## Praktisch
-
-Hoe lang een behandeling duurt, hangt af van hoeveel van je lichaam we behandelen.
-
-**30 minuten · €45**
-Voor één specifiek gebied, bijvoorbeeld je nek en schouders.
-
-**60 minuten · €80**
-Voor meerdere gebieden, bijvoorbeeld je rug, nek en schouders.
-
-**90 minuten · €115**
-Voor je hele lichaam. Hoe meer gebieden aandacht nodig hebben, hoe meer tijd ik ervoor neem.
-
-Twijfel je welke duur bij je past? Vertel me waar je last van hebt, dan adviseer ik je.
-
-Vanaf 60 minuten kom ik ook bij je thuis.
-
-Massagetherapie vervangt geen medisch onderzoek. Heb je een acute blessure of twijfel je, overleg dan eerst met je huisarts.
-
-Zoek je vooral rust? Dan past een ontspanningsmassage beter. Daarnaast bied ik buikmassage en lymfedrainage aan.
-
-**Plan je afspraak**
-katja@bykatja.nl · 06 11 329 768
+Massagetherapie · 30, 60 of 90 minuten · vanaf €45
+**[Bekijk tarieven en plan je afspraak]**

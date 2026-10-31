@@ -31,17 +31,9 @@ Elke sessie begint met een gesprek. Waar loop je tegenaan, en wat wil je bereike
 
 Je wordt rustiger en je voelt je lichaam weer. Je hoofd wordt stiller. Veel mensen merken dat ze na een sessie dichter bij zichzelf zijn. Daar begeleid ik je naartoe, met adem net zo goed als met massage.
 
-## Praktisch
-
-**Ademcoaching · 90 minuten · €110**
-Intake, begeleide ademsessie en integratie. Een goede eerste stap om te ervaren wat ademwerk voor jou doet.
-
-**Verdiepende ademcoaching · ca. 2,5 uur · €175**
-Meer tijd en ruimte om dieper te gaan.
-
-Je krijgt vooraf informatie over de sessie. Zit je achteraf ergens mee, dan kun je me bellen.
+## Goed om te weten
 
 Ademwerk ondersteunt, maar vervangt geen medische behandeling. Heb je lichamelijke klachten zoals astma, hoge bloeddruk of slaapapneu, overleg dan eerst met je huisarts. Intensief ademwerk is niet geschikt bij onder meer epilepsie, hart- en vaatziekten en zwangerschap. Dat bespreken we altijd in de intake.
 
-**Plan je afspraak**
-katja@bykatja.nl · 06 11 329 768
+Ademcoaching · 90 minuten of ca. 2,5 uur · vanaf €110
+**[Bekijk tarieven en plan je afspraak]**
