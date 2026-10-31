@@ -39,6 +39,8 @@ Geplante Yoga-Stunden (je 60 min, mit Atem und Meditation): Yin mit Elementen au
 - Yoga hat Priorität, Stunden morgens und abends möglich, Anzahl pro Woche hängt vom Finanzplan ab. Investitionsreihenfolge laut Katja: erst Website, dann Miete.
 - Grobe Fixkosten neu: ca. €1.240/Monat (alte Fixkosten ohne Stories + €800 Miete), ohne Einmalkosten für Einrichtung/Material. Eine wöchentliche Yogastunde mit 5 Personen bringt ca. €396/Monat exkl. 21% BTW (46 Arbeitswochen/Jahr).
 
+**Zeitplan (Oktober 2026):** Website im November fertig, online spätestens 1. Dezember 2026. Ab 1. Dezember Werbung: Flyer, persönliche WhatsApp-Nachrichten, Instagram, Gesundheitshaus. Interesse-Formular für Yoga (`website/interesse-formulier.md`) ist dabei der zentrale Link. Eine externe Person soll die Website noch verfeinern.
+
 ## Geplanter Kundenweg (noch nicht aktiviert)
 
 - Instagram

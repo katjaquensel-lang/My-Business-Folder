@@ -21,7 +21,7 @@ Iets meer beweging. In een rustig tempo ga je van de ene houding naar de andere,
 
 ## Adem & Meditatie
 
-Een uur voor je adem en voor stilte. Met ademoefeningen word je rustig, daarna volgt een meditatie. Een fijne manier om kennis te maken met ademwerk.
+Een uur voor je adem en voor stilte. Soms werken we met een rustige adem die je laat zakken, soms met een actieve adem die je wakker maakt en energie geeft. Daarna volgt een meditatie. Na het ademen wordt het vaak vanzelf stil in je hoofd. Een fijne manier om kennis te maken met ademwerk.
 
 ## Yogatherapie
 
