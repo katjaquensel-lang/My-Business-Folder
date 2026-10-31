@@ -17,6 +17,8 @@ Marke: **By Katja**, Claim: "Body · Breath · Being". Standort: Niederlande, ta
 - Verdiepende ademcoaching (vertiefendes Atemcoaching): ca. 2,5 Std, €175 (für Bewusstwerdung, emotionale Verarbeitung, persönliche Vertiefung)
 - Jede Atemsession besteht aus 3 Teilen: Intake · Atemsession · Integration & Nachbesprechung. Inklusive persönlicher Begleitung, Infos vorab, telefonischer Nachsorge bei Bedarf.
 
+**Neue Struktur auf der Website (Oktober 2026, in Arbeit):** Sportmassage, Bindegewebs-/Faszienmassage und Triggerpoint laufen künftig gebündelt unter **Massagetherapie** (erst Intake/Observation, dann passende Techniken). Ziel: keine separate Preisliste pro Massageart, klareres Angebot. Daneben separat: Ontspanningsmassage, Buikmassage (neu), Lymfedrainage (neu). Preise für Massagetherapie noch festzulegen (Vorschlag im Website-Entwurf: Sportmassage-Tarife). Offen: wie Energetische Massage und Reiki in die neue Struktur passen. Website-Entwurf: `website/massagetherapie.md`.
+
 **Hausbesuch:** möglich ab 60 Minuten, €10 innerhalb 15km, danach €0,40/km.
 
 **Geplant, noch nicht gestartet:** Yoga-Gruppenstunden, €25/Teilnehmer:in, max. 5 Personen. Bewusst erst für später vorgesehen, aktuell nur kalkuliert (siehe business.md).
