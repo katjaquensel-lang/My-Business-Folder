@@ -35,8 +35,19 @@ Na de behandeling zijn je spieren ontspannen en beter doorbloed. Je beweegt makk
 
 ## Praktisch
 
-Een behandeling duurt 30, 60 of 90 minuten.
-30 minuten €45 · 60 minuten €80 · 90 minuten €115
+Hoe lang een behandeling duurt, hangt af van hoeveel van je lichaam we behandelen.
+
+**30 minuten · €45**
+Voor één specifiek gebied, bijvoorbeeld je nek en schouders.
+
+**60 minuten · €80**
+Voor meerdere gebieden, bijvoorbeeld je rug, nek en schouders.
+
+**90 minuten · €115**
+Voor je hele lichaam. Hoe meer gebieden aandacht nodig hebben, hoe meer tijd ik ervoor neem.
+
+Twijfel je welke duur bij je past? Vertel me waar je last van hebt, dan adviseer ik je.
+
 Vanaf 60 minuten kom ik ook bij je thuis.
 
 Massagetherapie vervangt geen medisch onderzoek. Heb je een acute blessure of twijfel je, overleg dan eerst met je huisarts.
