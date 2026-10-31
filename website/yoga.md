@@ -7,7 +7,9 @@ Offen: Ort/Adresse, Tage und Zeiten, Preis Adem & Meditatie, Preis/Dauer Yogathe
 
 # Yoga
 
-Yoga loopt al lang door mijn leven. Ik volgde een yogaopleiding, gaf zelf les en leerde daar pranayama kennen, het bewust sturen van je adem. Vanaf januari 2027 geef ik les in mijn eigen praktijk, in kleine groepen van maximaal acht mensen. Elke les duurt een uur, en adem en meditatie horen er altijd bij.
+Yoga loopt al lang door mijn leven. Ik volgde een yogaopleiding, gaf zelf les en leerde daar pranayama kennen, het bewust sturen van je adem. Jarenlang oefende ik dagelijks bij een vaste docent, en mijn eigen beoefening is altijd gebleven. Een yogadocent blijft student: wat je zelf niet oefent, kun je ook niet doorgeven.
+
+Vanaf januari 2027 geef ik les in mijn eigen praktijk, in kleine groepen van maximaal acht mensen. Elke les duurt een uur, en adem en meditatie horen er altijd bij.
 
 ## Yin & Balans
 
