@@ -19,6 +19,10 @@ Yin yoga is rustig. Je houdt houdingen een paar minuten vast, zodat spieren en b
 
 Iets meer beweging. In een rustig tempo ga je van de ene houding naar de andere, op het ritme van je adem. Je wordt warm, soepeler en sterker. Ervaring heb je niet nodig.
 
+## Vinyasa Flow
+
+Voor als je al wat ervaring hebt en meer uitdaging zoekt. Houdingen volgen elkaar vloeiend op, in een hoger tempo dan bij Easy Flow. Je bouwt kracht en uithoudingsvermogen op, en je adem blijft het ritme aangeven.
+
 ## Adem & Meditatie
 
 Een uur voor je adem en voor stilte. Soms werken we met een rustige adem die je laat zakken, soms met een actieve adem die je wakker maakt en energie geeft. Daarna volgt een meditatie. Na het ademen wordt het vaak vanzelf stil in je hoofd. Een fijne manier om kennis te maken met ademwerk.

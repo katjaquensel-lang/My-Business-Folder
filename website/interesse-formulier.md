@@ -20,6 +20,7 @@ Vanaf januari 2027 geef ik yogales in kleine groepen van maximaal acht mensen. L
 **Welke lessen spreken je aan?** (meerdere antwoorden mogelijk)
 [ ] Yin & Balans
 [ ] Easy Flow
+[ ] Vinyasa Flow
 [ ] Adem & Meditatie
 [ ] Restorative yoga (ontspannen in ondersteunde houdingen)
 [ ] Yogatherapie (individueel)
