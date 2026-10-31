@@ -13,7 +13,7 @@ Vanaf januari 2027 geef ik les in mijn eigen praktijk, in kleine groepen van max
 
 ## Yin & Balans
 
-Yin yoga is rustig. Je houdt houdingen een paar minuten vast, zodat spieren en bindweefsel de tijd krijgen om los te laten. In deze les combineer ik yin met houdingen uit de hormoonyoga, die gericht zijn op je hormoonhuishouding. Voor alle vrouwen, en in het bijzonder als je in de overgang zit of met een kinderwens bezig bent. Ben je zwanger, dan is deze les niet geschikt.
+Yin yoga is rustig. Je houdt houdingen een paar minuten vast, zodat spieren en bindweefsel de tijd krijgen om los te laten. In deze les combineer ik yin met houdingen uit de hormoonyoga, die gericht zijn op je hormoonhuishouding. Voor alle vrouwen, en in het bijzonder als je in de overgang zit of met een kinderwens bezig bent. Ben je zwanger? Dan kun je gewoon meedoen. Ik laat de houdingen uit de hormoonyoga voor jou weg en geef je aangepaste yinhoudingen. Laat het me wel vooraf weten.
 
 ## Easy Flow
 
