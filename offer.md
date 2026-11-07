@@ -29,7 +29,8 @@ Sportmassage wird nicht mehr einzeln aufgeführt, sie steckt in der Massagethera
 - Reiki: 60min €75 (noch bestätigen), auch Reiki op afstand (Preis offen).
 - Ademcoaching €110 / Verdiepende ademcoaching €175: unverändert.
 - Yoga (Oktober 2026 entschieden): Probestunde €10 (wird bei Kauf von Abo/Rittenkaart angerechnet), Einzelstunde €18, Rittenkaart 10 Stunden €160 (ca. 4 Monate gültig), Monatsabo 1×/Woche €60, 2×/Woche €85 (Variante B, etwas über Shiva Valley: 55/75/150). Gratis Eröffnungsstunde im Januar 2027. Stunden: Yin & Balans, Easy Flow, Vinyasa Flow (neu), Adem & Meditatie. Anmeldeformular mit Gesundheitsfragen, Bedingungen, AVG. Im Schnitt ca. €14,30 pro Teilnahme (Mix 40% Rittenkaart, 50% Abo, 10% einzeln/Probe). Yogatherapie (Einzel): Dauer und Preis offen.
-- Offen: Stornierungsregeln.
+- Stornierung: bis 24 Stunden vorher kostenlos (stand schon auf der alten Preisliste).
+- Neue Preisliste (November 2026, `website/ByKatja-Prijslijst-nov-2026.pdf`): Massagetherapie, Ontspanningsmassage 60/90 (€70/€100, bestätigt), Energetische massage, Reiki, Ademcoaching, Hausbesuch; Yoga nur als Hinweis auf die Website. Buikmassage und Lymfedrainage folgen nach den Kursen.
 Nach den Kursen: Preisliste und Seite "Tarieven en boeken" mit Claude finalisieren. Bestehende Kund:innen: alter Preis bis Ende Dezember, neue Preise ab Januar 2027 (Praxisstart).
 
 **Hausbesuch:** möglich ab 60 Minuten, €10 innerhalb 15km, danach €0,40/km.
