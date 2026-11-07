@@ -41,7 +41,7 @@ Ruim 25 jaar zat ik in de juridische sector vooral in mijn hoofd. Nu maak ik van
 ---
 
 ### Mijn praktijk
-Je vindt mij in een holistisch gezondheidshuis in Eindhoven, samen met onder andere een osteopaat, verloskundigen, een diëtist en hormoontherapeuten.
+Je vindt mij in een holistisch gezondheidshuis in Aalst-Waalre, samen met onder andere een osteopaat, verloskundigen, een diëtist en hormoontherapeuten.
 
 ---
 
