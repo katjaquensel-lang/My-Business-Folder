@@ -1,0 +1,212 @@
+<title>Wochenplan Praxis By Katja</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@500;600;700&family=Inter:wght@400;500;600&display=swap">
+<style>
+/* Layout: Wochenübersicht als Zeitleiste (Mo–Fr), darunter buchbare Zeitfenster und Behandlungsdauern */
+:root {
+  --bg: #f6f8f5;
+  --surface: #ffffff;
+  --fg: #1f2a24;
+  --muted: #5d6b63;
+  --line: #dde4df;
+  --yoga: #3f6b52;
+  --yoga-fg: #ffffff;
+  --treat: #e3eee6;
+  --treat-border: #9dbaa6;
+  --treat-fg: #2c4a37;
+  --open: #f1f1ec;
+  --open-fg: #77776c;
+  --font-display: "Figtree", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #141a17; --surface: #1c2420; --fg: #e6ece8; --muted: #9aa8a0; --line: #2d3832;
+    --yoga: #6fa585; --yoga-fg: #0f1612; --treat: #233229; --treat-border: #4d6e59; --treat-fg: #cfe2d5;
+    --open: #22261f; --open-fg: #9a9b8f; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #141a17; --surface: #1c2420; --fg: #e6ece8; --muted: #9aa8a0; --line: #2d3832;
+  --yoga: #6fa585; --yoga-fg: #0f1612; --treat: #233229; --treat-border: #4d6e59; --treat-fg: #cfe2d5;
+  --open: #22261f; --open-fg: #9a9b8f; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--fg); font-family: var(--font-body); font-size: 15px; line-height: 1.5;
+}
+.wrap {
+  max-width: 1100px; margin: 0 auto;
+  padding-block: 32px 56px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: flex; flex-direction: column; gap: 32px;
+}
+h1, h2 { font-family: var(--font-display); text-wrap: balance; margin: 0; }
+h1 { font-size: 1.9rem; font-weight: 700; }
+h2 { font-size: 1.2rem; font-weight: 600; }
+.sub { color: var(--muted); margin: 6px 0 0; max-width: 65ch; }
+.legend { display: flex; flex-wrap: wrap; gap: 16px; font-size: 0.85rem; color: var(--muted); }
+.legend span { display: inline-flex; align-items: center; gap: 8px; }
+.sw { width: 14px; height: 14px; border-radius: 3px; display: inline-block; }
+.sw.yoga { background: var(--yoga); }
+.sw.treat { background: var(--treat); border: 1px dashed var(--treat-border); }
+.sw.open { background: var(--open); border: 1px solid var(--line); }
+
+.stats { display: flex; flex-wrap: wrap; gap: 24px; font-size: 0.9rem; color: var(--muted); }
+.stats b { font-family: var(--font-display); font-size: 1.35rem; color: var(--fg); display: block; font-variant-numeric: tabular-nums; }
+
+/* Zeitleiste */
+.board { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px; overflow-x: auto; }
+.grid { display: grid; grid-template-columns: 48px repeat(5, minmax(120px, 1fr)); gap: 0 8px; min-width: 700px; }
+.dayhead { font-family: var(--font-display); font-weight: 600; text-align: center; padding-bottom: 8px; font-size: 0.95rem; }
+.dayhead small { display: block; font-family: var(--font-body); font-weight: 400; color: var(--muted); font-size: 0.75rem; }
+.hours, .col { position: relative; height: calc(13 * 52px); }
+.hours div { position: absolute; right: 6px; transform: translateY(-50%); font-size: 0.72rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.col { border-left: 1px solid var(--line); background-image: linear-gradient(var(--line) 1px, transparent 1px); background-size: 100% 52px; }
+.blk { position: absolute; left: 4px; right: 4px; border-radius: 6px; padding: 5px 8px; font-size: 0.78rem; line-height: 1.3; overflow: hidden; }
+.blk .t { font-variant-numeric: tabular-nums; opacity: 0.85; display: block; font-size: 0.72rem; }
+.blk.yoga { background: var(--yoga); color: var(--yoga-fg); font-weight: 600; }
+.blk.treat { background: var(--treat); color: var(--treat-fg); border: 1px dashed var(--treat-border); }
+.blk.open { background: var(--open); color: var(--open-fg); border: 1px solid var(--line); }
+
+/* Listen */
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px; min-width: 0; }
+.card h3 { font-family: var(--font-display); font-size: 1rem; margin: 0 0 8px; display: flex; justify-content: space-between; gap: 8px; }
+.card h3 span { font-family: var(--font-body); font-weight: 500; font-size: 0.8rem; color: var(--muted); }
+.card ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+.card li { display: flex; gap: 10px; font-size: 0.88rem; }
+.card li .tm { font-variant-numeric: tabular-nums; color: var(--muted); min-width: 92px; }
+.card li.y b { color: var(--yoga); }
+.card li.b { color: var(--treat-fg); }
+.tbl-wrap { overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }
+table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+th, td { text-align: left; padding: 10px 14px; border-bottom: 1px solid var(--line); }
+th { font-family: var(--font-display); font-weight: 600; color: var(--muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; }
+td.num { font-variant-numeric: tabular-nums; }
+tr:last-child td { border-bottom: 0; }
+.note { color: var(--muted); font-size: 0.85rem; max-width: 70ch; margin: 0; }
+section { display: flex; flex-direction: column; gap: 12px; }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Wochenplan Praxis</h1>
+    <p class="sub">Yogakurse und buchbare Zeiten für Behandlungen im Gezondheidshuis Brabantia, Aalst-Waalre. Ab Januar 2027.</p>
+  </header>
+
+  <div class="legend">
+    <span><i class="sw yoga"></i>Yogakurs (75 Min.)</span>
+    <span><i class="sw treat"></i>Buchbar für Behandlungen</span>
+    <span><i class="sw open"></i>Frei (Untervermietung möglich)</span>
+  </div>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="board"><div class="grid" id="grid"></div></div>
+
+  <section>
+    <h2>Pro Tag</h2>
+    <div class="cards" id="cards"></div>
+    <p class="note">Nach jedem Yogakurs ist eine Viertelstunde Puffer eingeplant, bevor die nächste Behandlung beginnt. Vor den Abendkursen endet die letzte Behandlung um 18:30 Uhr, damit du den Raum vorbereiten kannst. Eine Mittagspause ist nicht fest eingeplant; blockiere sie im Buchungssystem, wenn du eine willst.</p>
+  </section>
+
+  <section>
+    <h2>Was passt in die Zeitfenster?</h2>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>Behandlung</th><th>Dauer</th><th>Mit 15 Min. Puffer</th></tr></thead>
+        <tbody>
+          <tr><td>Massage kurz</td><td class="num">30 Min.</td><td class="num">45 Min.</td></tr>
+          <tr><td>Massage / Reiki</td><td class="num">60 Min.</td><td class="num">1:15 Std.</td></tr>
+          <tr><td>Massage lang / Ademcoaching</td><td class="num">90 Min.</td><td class="num">1:45 Std.</td></tr>
+          <tr><td>Verdiepende ademcoaching</td><td class="num">ca. 2:30 Std.</td><td class="num">2:45 Std.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="note">Tipp: Lange Termine wie die verdiepende ademcoaching passen am besten in die langen Nachmittage am Mittwoch und Donnerstag. Abends sind Massagen gefragt, dafür sind Mittwoch- und Donnerstagabend frei.</p>
+  </section>
+</div>
+
+<script>
+const START = 9, END = 22, PX = 52;
+const days = [
+  { d: "Montag", note: "Abends Yoga", items: [
+    ["treat", "9:30", "18:30", "Behandlungen"],
+    ["yoga", "19:00", "20:15", "Vinyasa Yoga"],
+    ["yoga", "20:30", "21:45", "Yin & Balance"] ] },
+  { d: "Dienstag", note: "Morgens und abends Yoga", items: [
+    ["yoga", "9:30", "10:45", "Hormoonyoga"],
+    ["treat", "11:00", "18:30", "Behandlungen"],
+    ["yoga", "19:00", "20:15", "Adem & Meditatie"] ] },
+  { d: "Mittwoch", note: "Abend frei für Massagen", items: [
+    ["yoga", "9:30", "10:45", "Vinyasa Yoga"],
+    ["yoga", "11:00", "12:15", "Yin & Balance"],
+    ["treat", "12:30", "21:00", "Behandlungen"] ] },
+  { d: "Donnerstag", note: "Abend frei für Massagen", items: [
+    ["yoga", "9:30", "10:45", "Adem & Meditatie"],
+    ["yoga", "11:00", "12:15", "Hormoonyoga"],
+    ["treat", "12:30", "21:00", "Behandlungen"] ] },
+  { d: "Freitag", note: "Frei, evtl. Untervermietung", items: [
+    ["open", "9:00", "22:00", "Frei: Raum evtl. untervermieten"] ] }
+];
+const toH = s => { const [h, m] = s.split(":").map(Number); return h + m / 60; };
+const fmt = h => { const hh = Math.floor(h), mm = Math.round((h - hh) * 60); return mm ? `${hh}:${String(mm).padStart(2, "0")}` : `${hh}`; };
+
+const grid = document.getElementById("grid");
+grid.appendChild(Object.assign(document.createElement("div"), { className: "dayhead" }));
+days.forEach(x => {
+  const h = document.createElement("div");
+  h.className = "dayhead";
+  h.innerHTML = `${x.d}<small>${x.note}</small>`;
+  grid.appendChild(h);
+});
+const hours = document.createElement("div");
+hours.className = "hours";
+for (let h = START; h <= END; h++) {
+  const l = document.createElement("div");
+  l.style.top = (h - START) * PX + "px";
+  l.textContent = h + ":00";
+  hours.appendChild(l);
+}
+grid.appendChild(hours);
+days.forEach(x => {
+  const col = document.createElement("div");
+  col.className = "col";
+  x.items.forEach(([k, a, b, label]) => {
+    const s = toH(a), e = toH(b);
+    const el = document.createElement("div");
+    el.className = "blk " + k;
+    el.style.top = (s - START) * PX + 2 + "px";
+    el.style.height = (e - s) * PX - 4 + "px";
+    el.innerHTML = `${label}<span class="t">${a}–${b}</span>`;
+    col.appendChild(el);
+  });
+  grid.appendChild(col);
+});
+
+let yogaH = 0, treatH = 0, classes = 0;
+const cards = document.getElementById("cards");
+days.forEach(x => {
+  let dayTreat = 0;
+  const li = x.items.map(([k, a, b, label]) => {
+    const dur = toH(b) - toH(a);
+    if (k === "yoga") { yogaH += dur; classes++; }
+    if (k === "treat") { treatH += dur; dayTreat += dur; }
+    const cls = k === "yoga" ? "y" : k === "treat" ? "b" : "";
+    return `<li class="${cls}"><span class="tm">${a}–${b}</span>${k === "yoga" ? `<b>${label}</b>` : label}</li>`;
+  }).join("");
+  const c = document.createElement("div");
+  c.className = "card";
+  c.innerHTML = `<h3>${x.d}<span>${dayTreat ? fmt(dayTreat) + " Std. buchbar" : x.note}</span></h3><ul>${li}</ul>`;
+  cards.appendChild(c);
+});
+document.getElementById("stats").innerHTML =
+  `<div><b>${classes}</b>Yogakurse pro Woche</div>` +
+  `<div><b>${fmt(yogaH)} Std.</b>Yoga</div>` +
+  `<div><b>${fmt(treatH)} Std.</b>buchbar für Behandlungen (Mo–Do)</div>` +
+  `<div><b>2</b>freie Abende für Massagen</div>`;
+</script>
