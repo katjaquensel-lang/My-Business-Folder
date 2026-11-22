@@ -50,10 +50,12 @@ Ik start in de praktijk met yoga voor vrouwen, in kleine groepen van **maximaal 
 
 | | Ochtend | Avond |
 |---|---|---|
-| **Maandag** | – | 17:30–18:30 Vinyasa Yoga<br>20:00–21:15 Yin & Balance |
-| **Dinsdag** | 9:00–10:15 Hormoonyoga | 19:30–20:30 Adem & Meditatie |
-| **Woensdag** | 9:00–10:15 Vinyasa Yoga<br>10:30–11:45 Yin & Balance | – |
-| **Donderdag** | 9:00–10:00 Adem & Meditatie<br>10:15–11:30 Hormoonyoga | – |
+| **Maandag** | – | 19:00–20:15 Vinyasa Yoga<br>20:30–21:45 Yin & Balance |
+| **Dinsdag** | 9:30–10:45 Hormoonyoga | 19:00–20:15 Adem & Meditatie |
+| **Woensdag** | 9:30–10:45 Vinyasa Yoga<br>11:00–12:15 Yin & Balance | – |
+| **Donderdag** | 9:30–10:45 Adem & Meditatie<br>11:00–12:15 Hormoonyoga | – |
+
+Alle lessen duren 1 uur en 15 minuten, met een kwartier pauze tussen twee lessen.
 
 Zwangerschapsyoga komt nog niet in het rooster, die voeg ik later toe. Graag het rooster zo opzetten dat ik het later makkelijk kan aanpassen.
 
