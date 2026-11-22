@@ -102,7 +102,7 @@ section { display: flex; flex-direction: column; gap: 12px; }
   <div class="legend">
     <span><i class="sw yoga"></i>Yogakurs (75 Min.)</span>
     <span><i class="sw treat"></i>Buchbar für Behandlungen</span>
-    <span><i class="sw open"></i>Mittagspause / frei</span>
+    <span><i class="sw open"></i>Pause / frei</span>
   </div>
 
   <div class="stats" id="stats"></div>
@@ -112,7 +112,7 @@ section { display: flex; flex-direction: column; gap: 12px; }
   <section>
     <h2>Pro Tag</h2>
     <div class="cards" id="cards"></div>
-    <p class="note">Nach jedem Yogakurs ist eine Viertelstunde Puffer eingeplant, bevor die nächste Behandlung beginnt. Vor den Abendkursen endet die letzte Behandlung um 18:30 Uhr, damit du den Raum vorbereiten kannst. Die Mittagspause von 12:30 bis 13:30 Uhr blockierst du im Buchungssystem an allen vier Tagen.</p>
+    <p class="note">Nach jedem Yogakurs ist eine Viertelstunde Puffer eingeplant, bevor die nächste Behandlung beginnt. Mittagspause von 12:30 bis 13:30 Uhr und Abendessen von 17:00 bis 19:00 Uhr blockierst du im Buchungssystem. Die Endzeit eines Zeitfensters ist die Uhrzeit, zu der die letzte Behandlung fertig ist: Bei 19:00–21:00 Uhr startet eine 60-Minuten-Behandlung spätestens um 20:00, eine 90-Minuten-Behandlung spätestens um 19:30 Uhr.</p>
   </section>
 
   <section>
@@ -128,7 +128,7 @@ section { display: flex; flex-direction: column; gap: 12px; }
         </tbody>
       </table>
     </div>
-    <p class="note">Tipp: Lange Termine wie die verdiepende ademcoaching passen am besten in die langen Nachmittage am Mittwoch und Donnerstag. Abends sind Massagen gefragt, dafür sind Mittwoch- und Donnerstagabend frei.</p>
+    <p class="note">Tipp: Lange Termine wie die verdiepende ademcoaching (2,5 Std.) passen nur in die Nachmittage von 13:30 bis 17:00 Uhr. Abends von 19:00 bis 21:00 Uhr passen Massagen bis 90 Minuten, Reiki und Ademcoaching.</p>
   </section>
 </div>
 
@@ -138,27 +138,35 @@ const days = [
   { d: "Montag", note: "Abends Yoga", items: [
     ["treat", "9:30", "12:30", "Behandlungen"],
     ["pause", "12:30", "13:30", "Mittagspause"],
-    ["treat", "13:30", "18:30", "Behandlungen"],
+    ["treat", "13:30", "17:00", "Behandlungen"],
+    ["pause", "17:00", "19:00", "Abendessen"],
     ["yoga", "19:00", "20:15", "Vinyasa Yoga"],
     ["yoga", "20:30", "21:45", "Yin & Balance"] ] },
   { d: "Dienstag", note: "Morgens und abends Yoga", items: [
     ["yoga", "9:30", "10:45", "Hormoonyoga"],
     ["treat", "11:00", "12:30", "Behandlungen"],
     ["pause", "12:30", "13:30", "Mittagspause"],
-    ["treat", "13:30", "18:30", "Behandlungen"],
+    ["treat", "13:30", "17:00", "Behandlungen"],
+    ["pause", "17:00", "19:00", "Abendessen"],
     ["yoga", "19:00", "20:15", "Adem & Meditatie"] ] },
-  { d: "Mittwoch", note: "Abend frei für Massagen", items: [
+  { d: "Mittwoch", note: "Abends Behandlungen", items: [
     ["yoga", "9:30", "10:45", "Vinyasa Yoga"],
     ["yoga", "11:00", "12:15", "Yin & Balance"],
     ["pause", "12:30", "13:30", "Mittagspause"],
-    ["treat", "13:30", "21:00", "Behandlungen"] ] },
-  { d: "Donnerstag", note: "Abend frei für Massagen", items: [
+    ["treat", "13:30", "17:00", "Behandlungen"],
+    ["pause", "17:00", "19:00", "Abendessen"],
+    ["treat", "19:00", "21:00", "Behandlungen"] ] },
+  { d: "Donnerstag", note: "Abends Behandlungen", items: [
     ["yoga", "9:30", "10:45", "Adem & Meditatie"],
     ["yoga", "11:00", "12:15", "Hormoonyoga"],
     ["pause", "12:30", "13:30", "Mittagspause"],
-    ["treat", "13:30", "21:00", "Behandlungen"] ] },
-  { d: "Freitag", note: "Frei, evtl. Untervermietung", items: [
-    ["open", "9:00", "22:00", "Frei: Raum evtl. untervermieten"] ] }
+    ["treat", "13:30", "17:00", "Behandlungen"],
+    ["pause", "17:00", "19:00", "Abendessen"],
+    ["treat", "19:00", "21:00", "Behandlungen"] ] },
+  { d: "Freitag", note: "Tagsüber frei, abends Behandlungen", items: [
+    ["open", "9:00", "17:00", "Frei: Raum evtl. untervermieten"],
+    ["pause", "17:00", "19:00", "Abendessen"],
+    ["treat", "19:00", "21:00", "Behandlungen"] ] }
 ];
 const toH = s => { const [h, m] = s.split(":").map(Number); return h + m / 60; };
 const fmt = h => String(Math.round(h * 10) / 10).replace(".", ",");
@@ -214,6 +222,6 @@ days.forEach(x => {
 document.getElementById("stats").innerHTML =
   `<div><b>${classes}</b>Yogakurse pro Woche</div>` +
   `<div><b>${fmt(yogaH)} Std.</b>Yoga</div>` +
-  `<div><b>${fmt(treatH)} Std.</b>buchbar für Behandlungen (Mo–Do)</div>` +
-  `<div><b>2</b>freie Abende für Massagen</div>`;
+  `<div><b>${fmt(treatH)} Std.</b>buchbar für Behandlungen (Mo–Fr)</div>` +
+  `<div><b>3</b>Abende für Behandlungen (Mi–Fr)</div>`;
 </script>
