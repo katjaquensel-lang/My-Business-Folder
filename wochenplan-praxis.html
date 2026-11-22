@@ -161,7 +161,7 @@ const days = [
     ["open", "9:00", "22:00", "Frei: Raum evtl. untervermieten"] ] }
 ];
 const toH = s => { const [h, m] = s.split(":").map(Number); return h + m / 60; };
-const fmt = h => { const hh = Math.floor(h), mm = Math.round((h - hh) * 60); return mm ? `${hh}:${String(mm).padStart(2, "0")}` : `${hh}`; };
+const fmt = h => String(Math.round(h * 10) / 10).replace(".", ",");
 
 const grid = document.getElementById("grid");
 grid.appendChild(Object.assign(document.createElement("div"), { className: "dayhead" }));
