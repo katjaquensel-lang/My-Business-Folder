@@ -70,7 +70,8 @@ h2 { font-size: 1.2rem; font-weight: 600; }
 .blk .t { font-variant-numeric: tabular-nums; opacity: 0.85; display: block; font-size: 0.72rem; }
 .blk.yoga { background: var(--yoga); color: var(--yoga-fg); font-weight: 600; }
 .blk.treat { background: var(--treat); color: var(--treat-fg); border: 1px dashed var(--treat-border); }
-.blk.open { background: var(--open); color: var(--open-fg); border: 1px solid var(--line); }
+.blk.open, .blk.pause { background: var(--open); color: var(--open-fg); border: 1px solid var(--line); }
+.blk.pause { font-style: italic; }
 
 /* Listen */
 .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }
@@ -101,7 +102,7 @@ section { display: flex; flex-direction: column; gap: 12px; }
   <div class="legend">
     <span><i class="sw yoga"></i>Yogakurs (75 Min.)</span>
     <span><i class="sw treat"></i>Buchbar für Behandlungen</span>
-    <span><i class="sw open"></i>Frei (Untervermietung möglich)</span>
+    <span><i class="sw open"></i>Mittagspause / frei</span>
   </div>
 
   <div class="stats" id="stats"></div>
@@ -111,7 +112,7 @@ section { display: flex; flex-direction: column; gap: 12px; }
   <section>
     <h2>Pro Tag</h2>
     <div class="cards" id="cards"></div>
-    <p class="note">Nach jedem Yogakurs ist eine Viertelstunde Puffer eingeplant, bevor die nächste Behandlung beginnt. Vor den Abendkursen endet die letzte Behandlung um 18:30 Uhr, damit du den Raum vorbereiten kannst. Eine Mittagspause ist nicht fest eingeplant; blockiere sie im Buchungssystem, wenn du eine willst.</p>
+    <p class="note">Nach jedem Yogakurs ist eine Viertelstunde Puffer eingeplant, bevor die nächste Behandlung beginnt. Vor den Abendkursen endet die letzte Behandlung um 18:30 Uhr, damit du den Raum vorbereiten kannst. Die Mittagspause von 12:30 bis 13:30 Uhr blockierst du im Buchungssystem an allen vier Tagen.</p>
   </section>
 
   <section>
@@ -135,21 +136,27 @@ section { display: flex; flex-direction: column; gap: 12px; }
 const START = 9, END = 22, PX = 52;
 const days = [
   { d: "Montag", note: "Abends Yoga", items: [
-    ["treat", "9:30", "18:30", "Behandlungen"],
+    ["treat", "9:30", "12:30", "Behandlungen"],
+    ["pause", "12:30", "13:30", "Mittagspause"],
+    ["treat", "13:30", "18:30", "Behandlungen"],
     ["yoga", "19:00", "20:15", "Vinyasa Yoga"],
     ["yoga", "20:30", "21:45", "Yin & Balance"] ] },
   { d: "Dienstag", note: "Morgens und abends Yoga", items: [
     ["yoga", "9:30", "10:45", "Hormoonyoga"],
-    ["treat", "11:00", "18:30", "Behandlungen"],
+    ["treat", "11:00", "12:30", "Behandlungen"],
+    ["pause", "12:30", "13:30", "Mittagspause"],
+    ["treat", "13:30", "18:30", "Behandlungen"],
     ["yoga", "19:00", "20:15", "Adem & Meditatie"] ] },
   { d: "Mittwoch", note: "Abend frei für Massagen", items: [
     ["yoga", "9:30", "10:45", "Vinyasa Yoga"],
     ["yoga", "11:00", "12:15", "Yin & Balance"],
-    ["treat", "12:30", "21:00", "Behandlungen"] ] },
+    ["pause", "12:30", "13:30", "Mittagspause"],
+    ["treat", "13:30", "21:00", "Behandlungen"] ] },
   { d: "Donnerstag", note: "Abend frei für Massagen", items: [
     ["yoga", "9:30", "10:45", "Adem & Meditatie"],
     ["yoga", "11:00", "12:15", "Hormoonyoga"],
-    ["treat", "12:30", "21:00", "Behandlungen"] ] },
+    ["pause", "12:30", "13:30", "Mittagspause"],
+    ["treat", "13:30", "21:00", "Behandlungen"] ] },
   { d: "Freitag", note: "Frei, evtl. Untervermietung", items: [
     ["open", "9:00", "22:00", "Frei: Raum evtl. untervermieten"] ] }
 ];
