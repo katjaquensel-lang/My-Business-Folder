@@ -98,9 +98,53 @@ Je voelt je ontspannen en tegelijk meer in balans. Lichter, rustiger en meer bij
 
 ---
 
-## Notities voor de nieuwe prijslijst
+## Yoga voor vrouwen
 
-- **Buikmassage (Chi Nei Tsang):** 90 minuten (15 min intake, 60 min massage, 15 min integratie) · € 110
-- Ontspanningsmassage: 60 en 90 minuten (geen 30 minuten)
-- Nog aanvullen: yogatarieven (losse les, rittenkaart, maandabonnement)
-- Website-versie: geen telefoonnummer; behandeling aan huis alleen als korte zin "op aanvraag"
+In mijn praktijk geef ik yoga in kleine groepen van maximaal acht vrouwen. Zo is er ruimte voor persoonlijke aandacht: ik zie je, pas houdingen aan waar nodig en help je om te voelen wat goed is voor jouw lichaam. Elke les duurt 75 minuten. Je bent welkom, wat je niveau of ervaring ook is.
+
+### Vinyasa Yoga
+
+Vinyasa is een dynamische vorm van yoga, waarbij je houdingen vloeiend in elkaar overlopen op het ritme van je adem. Je bouwt kracht en soepelheid op, je lichaam wordt warm en je hoofd komt tot rust doordat je aandacht bij je adem en beweging blijft. Een les vol beweging, met aan het eind tijd voor ontspanning.
+
+*Voor jou als je energie wilt opdoen, sterker en soepeler wilt worden, en houdt van beweging.*
+
+### Hormoonyoga
+
+Hormoonyoga is speciaal ontwikkeld voor vrouwen. Met een combinatie van yogahoudingen, krachtige ademtechnieken en ontspanning stimuleer je de organen die je hormonen aanmaken. Veel vrouwen ervaren dat klachten rond de overgang, zoals opvliegers, slecht slapen, stemmingswisselingen en vermoeidheid, minder worden. Maar ook als je los van de overgang last hebt van hormonale schommelingen, een onregelmatige cyclus of weinig energie, kan hormoonyoga je weer in balans brengen.
+
+*Voor vrouwen vanaf ongeveer 35 jaar, voor, in of na de overgang, en voor iedereen die meer in balans wil komen met haar lichaam.*
+
+*Hormoonyoga is niet geschikt tijdens de zwangerschap en bij bepaalde aandoeningen. Twijfel je? Neem dan even contact met me op.*
+
+### Yin & Balance
+
+In deze les zoeken we het evenwicht tussen actief en rustig. We beginnen met staande balanshoudingen: je gronden, je aandacht verzamelen en kracht opbouwen in je benen en je romp. Daarna volgen rustige Yin-houdingen, zittend en liggend, die je enkele minuten aanhoudt met de steun van kussens en blokken. Zo kunnen niet alleen je spieren, maar ook je bindweefsel en gewrichten zacht worden. Het resultaat: evenwicht in je lichaam en rust in je hoofd.
+
+*Voor jou als je wilt vertragen, soepeler en stabieler wilt worden en toe bent aan rust.*
+
+*Ben je zwanger? Dan ben je bij Yin & Balance van harte welkom. Ik pas de houdingen aan jouw lichaam en je zwangerschap aan.*
+
+### Adem & Meditatie
+
+In deze les staat je adem centraal. Met eenvoudige ademoefeningen, zachte beweging en meditatie kom je uit je hoofd en terug in je lichaam. Je leert hoe je adem je kan helpen om tot rust te komen, spanning los te laten en weer helder te voelen wat er in je speelt. Oefeningen die je ook thuis zelf kunt gebruiken.
+
+*Voor jou als je veel in je hoofd zit, stress ervaart of wilt leren hoe je met je adem tot rust komt.*
+
+### Zwangerschapsyoga (binnenkort)
+
+Binnenkort start ik ook met zwangerschapsyoga. Wil je op de hoogte blijven? Stuur me een e-mail.
+
+---
+
+## Prijzen
+
+- **Nieuw: Buikmassage (Chi Nei Tsang)**, 90 minuten (15 min intake, 60 min massage, 15 min integratie): € 110
+- **Ontspanningsmassage**: alleen 60 en 90 minuten.
+- De volledige, bijgewerkte prijslijst (inclusief yogatarieven) stuur ik je nog toe.
+- Op de website graag **geen telefoonnummer**, en behandeling aan huis alleen als de korte zin hierboven ("op aanvraag").
+
+---
+
+## Volgt nog
+
+Teksten voor ademwerk (ademcoaching en verdiepende ademcoaching), bodywork, Reiki en het aanbod voor bedrijven stuur ik je in deel 3.
