@@ -18,7 +18,7 @@ Massagetherapie is meer dan een massage. Ik kijk eerst naar jou als geheel: hoe 
 
 **Hoe werkt het?**
 
-Elke behandeling begint met een kort gesprek. Daarna ga je eerst op de behandeltafel zitten, zodat ik je houding en je rug goed kan bekijken. Zo zie ik waar spanning en verklevingen zitten. Vervolgens ga je liggen en begin ik de behandeling, van je voeten omhoog via je benen naar je rug, nek en schouders. Ik combineer de technieken die bij jou passen:
+Elke behandeling begint met een kort gesprek. Daarna ga je eerst op de behandeltafel zitten, zodat ik je houding en je rug goed kan bekijken. Zo zie ik waar spanning en verklevingen zitten. Vervolgens ga je liggen en begin ik de behandeling. In 30 minuten behandel ik één gebied, in 60 minuten meerdere gebieden en in 90 minuten je hele lichaam, van je voeten omhoog via je benen naar je rug, nek en schouders. Ik combineer de technieken die bij jou passen:
 
 - **Bindweefselmassage.** Bindweefsel omhult je spieren en kan door spanning, overbelasting of weinig beweging aan elkaar gaan kleven. Met specifieke grepen, zonder contactmiddel, maak ik dit weefsel weer soepel. Tegelijk warmt het je spieren op, zodat ze optimaal voorbereid zijn op de massage.
 - **Sportmassage.** Daarna masseer ik de spieren met een contactmiddel. Met lange, strijkende bewegingen breng ik de doorbloeding op gang en laat ik verkorte of overbelaste spieren ontspannen.
