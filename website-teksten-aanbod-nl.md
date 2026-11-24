@@ -78,6 +78,26 @@ Een behandeling duurt 90 minuten: een kwartier intake, 60 minuten massage en een
 
 ---
 
+## Energetische massage
+
+Soms weet je precies wat je nodig hebt. En soms weet je alleen dat je toe bent aan aandacht voor je lichaam. Daarvoor is de energetische massage: een behandeling die ik helemaal afstem op wat jij op dat moment nodig hebt.
+
+**Hoe werkt het?**
+
+We beginnen met een kort gesprek. Daarna voel ik aan waar je lichaam om vraagt. Misschien wil je vooral ontspannen, maar zit er ergens toch spanning vast. Dan masseer ik daar wat steviger, terwijl de rest van de massage rustig en zacht blijft. Zo beweegt de energetische massage zich tussen een ontspanningsmassage en een diepere massage in.
+
+Naast massage met warme olie gebruik ik lichte aanrakingen, zacht wiegen en schudden van je lichaam, en Reiki-energie. Al die elementen samen helpen je lichaam om los te laten, en je energie om weer te stromen.
+
+**Voor wie?**
+
+Voor iedereen die ontspanning zoekt, maar ook merkt dat er iets vastzit. Lichamelijk of emotioneel, met of zonder concrete klacht. Je hoeft niet te weten wat je nodig hebt. Dat voelen we samen.
+
+**Wat merk je erna?**
+
+Je voelt je ontspannen en tegelijk meer in balans. Lichter, rustiger en meer bij jezelf.
+
+---
+
 ## Notities voor de nieuwe prijslijst
 
 - **Buikmassage (Chi Nei Tsang):** 90 minuten (15 min intake, 60 min massage, 15 min integratie) · € 110
