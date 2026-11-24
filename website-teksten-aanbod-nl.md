@@ -110,7 +110,7 @@ Vinyasa is een dynamische vorm van yoga, waarbij je houdingen vloeiend in elkaar
 
 ### Hormoonyoga
 
-Hormoonyoga is speciaal ontwikkeld voor vrouwen. Met een combinatie van yogahoudingen, krachtige ademtechnieken en ontspanning stimuleer je de organen die je hormonen aanmaken. Veel vrouwen ervaren dat klachten rond de overgang, zoals opvliegers, slecht slapen, stemmingswisselingen en vermoeidheid, minder worden. Maar ook als je los van de overgang last hebt van hormonale schommelingen, een onregelmatige cyclus of weinig energie, kan hormoonyoga je weer in balans brengen.
+Hormoonyoga is speciaal ontwikkeld voor vrouwen. Met een combinatie van yogahoudingen, verschillende ademtechnieken, van krachtig tot zacht, en ontspanning stimuleer je de organen die je hormonen aanmaken. Veel vrouwen ervaren dat klachten rond de overgang, zoals opvliegers, slecht slapen, stemmingswisselingen en vermoeidheid, minder worden. Maar ook als je los van de overgang last hebt van hormonale schommelingen, een onregelmatige cyclus of weinig energie, kan hormoonyoga je weer in balans brengen.
 
 *Voor vrouwen vanaf ongeveer 35 jaar, voor, in of na de overgang, en voor iedereen die meer in balans wil komen met haar lichaam.*
 
@@ -126,9 +126,13 @@ In deze les zoeken we het evenwicht tussen actief en rustig. We beginnen met sta
 
 ### Adem & Meditatie
 
-In deze les staat je adem centraal. Met eenvoudige ademoefeningen, zachte beweging en meditatie kom je uit je hoofd en terug in je lichaam. Je leert hoe je adem je kan helpen om tot rust te komen, spanning los te laten en weer helder te voelen wat er in je speelt. Oefeningen die je ook thuis zelf kunt gebruiken.
+Je adem is het enige in je lichaam dat vanzelf gaat, maar dat je ook bewust kunt sturen. Daarmee heb je een krachtig hulpmiddel in handen: met je adem kun je zelf beïnvloeden hoe je je voelt. Rustig, actief, helder of vrolijk.
 
-*Voor jou als je veel in je hoofd zit, stress ervaart of wilt leren hoe je met je adem tot rust komt.*
+In deze les leer je verschillende ademtechnieken, meestal zittend of liggend. Soms zacht en kalmerend, om tot rust te komen en spanning los te laten. Soms krachtig en activerend, om je energie te verhogen en je gefocust en helder te voelen. Elke les sluit af met een meditatie, zodat je lichaam en hoofd weer tot rust komen.
+
+Je gaat naar huis met ademtechnieken die je je hele leven kunt gebruiken, op elk moment dat je ze nodig hebt.
+
+*Voor jou als je wilt ervaren wat je adem voor je kan doen: om tot rust te komen, om energie op te doen of om weer helder te voelen.*
 
 ### Zwangerschapsyoga (binnenkort)
 
