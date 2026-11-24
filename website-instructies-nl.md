@@ -8,7 +8,7 @@ Dank je wel voor het eerste ontwerp. Het yogatemplate is een goede basis en de o
 
 **1. Mijn visie**
 
-Vanaf januari 2027 heb ik mijn eigen, kleine praktijkruimte in Gezondheidshuis Brabantia in Aalst-Waalre. Ik richt me **uitsluitend op vrouwen**. Ik wil een veilige, warme en inspirerende plek creëren waar vrouwen via yoga, massage en ademwerk weer helemaal bij zichzelf kunnen komen. Dat gevoel moet de hele website uitstralen: rustig, warm, uitnodigend en met beide voeten op de grond, niet zweverig.
+Vanaf januari 2027 heb ik mijn eigen praktijkruimte in Gezondheidshuis Brabantia in Aalst-Waalre. Ik richt me **uitsluitend op vrouwen**. Ik wil een inspirerende, fijne en warme plek creëren waar vrouwen via yoga, massage en ademwerk weer helemaal bij zichzelf kunnen komen. Dat gevoel moet de hele website uitstralen: rustig, warm, uitnodigend en met beide voeten op de grond, niet zweverig.
 
 ---
 
@@ -16,9 +16,9 @@ Vanaf januari 2027 heb ik mijn eigen, kleine praktijkruimte in Gezondheidshuis B
 
 Bovenaan de homepage, direct onder de openingsfoto, komt een duidelijk blok met mijn visie. Dit is het eerste wat bezoekers moeten zien. Tekst:
 
-> **Een veilige plek voor vrouwen**
+> **Een inspirerende, fijne plek om bij jezelf te komen**
 >
-> Mijn praktijk is een kleine, warme ruimte, speciaal voor vrouwen. Een plek waar je even niets hoeft. Waar je niet hoeft uit te leggen, te presteren of sterk te zijn. Waar je mag landen, ademen en voelen wat er is.
+> Mijn praktijk is een inspirerende, fijne en warme ruimte, met een bijzonder hart voor vrouwen. Een plek waar je even niets hoeft. Waar je niet hoeft uit te leggen, te presteren of sterk te zijn. Waar je mag landen, ademen en voelen wat er is.
 >
 > Ik geloof dat vrouwen elkaar en zichzelf veel te geven hebben, zeker als er ruimte is om te vertragen. Daarom werk ik bewust kleinschalig: individuele behandelingen en yogagroepen van maximaal acht vrouwen, met persoonlijke aandacht voor ieder van jullie.
 >
@@ -69,7 +69,7 @@ Graag deze tekst gebruiken. Belangrijk: mijn ruim twintig jaar ervaring met lich
 >
 > Ik ben Katja. Al ruim twintig jaar ben ik bezig met het lichaam, beweging, yoga en adem. Yoga beoefen ik al heel lang. Na mijn yogaopleiding ben ik zelf les gaan geven als yogadocent. Daarna volgden opleidingen in massagetherapie, ademcoaching en Reiki.
 >
-> Al die jaren werkte ik daarnaast in de juridische sector. Na ruim 25 jaar maak ik nu de stap die al lang klaarlag: ik kies volledig voor mijn passie, het lichaam, de adem en wat die met ons doen. Vanaf januari 2027 vind je mij in mijn eigen, kleine praktijkruimte in een holistisch gezondheidshuis in Aalst-Waalre. Een inspirerende, warme plek voor vrouwen om weer helemaal bij zichzelf te komen.
+> Al die jaren werkte ik daarnaast in de juridische sector. Na ruim 25 jaar maak ik nu de stap die al lang klaarlag: ik kies volledig voor mijn passie, het lichaam, de adem en wat die met ons doen. Vanaf januari 2027 vind je mij in mijn eigen praktijkruimte in een holistisch gezondheidshuis in Aalst-Waalre. Een inspirerende, fijne en warme plek om weer helemaal bij jezelf te komen.
 >
 > Over in je hoofd zitten kan ik je alles vertellen. Controleren, afwegen, verantwoorden. Lang dacht ik dat ik alles met wilskracht kon oplossen. Als zwemster en later als juriste werkte dat prima, tot mijn lichaam en mijn leven me iets anders lieten zien.
 >
@@ -81,7 +81,7 @@ Graag deze tekst gebruiken. Belangrijk: mijn ruim twintig jaar ervaring met lich
 >
 > Mijn eigen rust vind ik op de yogamat, in mijn dagelijkse ademoefeningen en in het bos, met mijn hond als strengste coach: elke dag naar buiten, weer of geen weer. En mijn twee kinderen zijn mijn eerlijkste spiegel. Zij laten me feilloos zien wanneer ik weer te veel in mijn hoofd zit. Ik geef alleen door wat ik zelf beoefen.
 >
-> Ik geloof dat jij al alles in je hebt wat je nodig hebt. In mijn praktijk creëer ik een veilige, warme plek waar je dat weer mag voelen. Ik begeleid je daarbij, in je eigen tempo. Je bent welkom.
+> Ik geloof dat jij al alles in je hebt wat je nodig hebt. In mijn praktijk creëer ik een inspirerende, fijne plek waar je dat weer mag voelen. Ik begeleid je daarbij, in je eigen tempo. Je bent welkom.
 
 ---
 

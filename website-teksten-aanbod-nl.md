@@ -6,7 +6,20 @@
 
 **Vrouwen en mannen:** de yogalessen zijn alleen voor vrouwen. De individuele behandelingen (massage, ademwerk, Reiki) zijn voor iedereen, ook voor mannen. De uitstraling van de website blijft gericht op vrouwen, maar de teksten over de behandelingen spreken iedereen aan.
 
-**Welkomsttekst, eerste zin aanpassen:** "Mijn praktijk is een kleine, warme ruimte, speciaal voor vrouwen." wordt: **"Mijn praktijk is een kleine, warme ruimte, met een bijzonder hart voor vrouwen."**
+**Correctie welkomsttekst (homepage):** in de eerste instructies staat "Een veilige plek voor vrouwen". Dat klinkt te veel als een opvanghuis en is niet wat ik bedoel. Ik bedoel een **inspirerende, fijne en warme plek**. Graag het blok op de homepage vervangen door deze tekst:
+
+> **Een inspirerende, fijne plek om bij jezelf te komen**
+>
+> Mijn praktijk is een inspirerende, fijne en warme ruimte, met een bijzonder hart voor vrouwen. Een plek waar je even niets hoeft. Waar je niet hoeft uit te leggen, te presteren of sterk te zijn. Waar je mag landen, ademen en voelen wat er is.
+>
+> Ik geloof dat vrouwen elkaar en zichzelf veel te geven hebben, zeker als er ruimte is om te vertragen. Daarom werk ik bewust kleinschalig: individuele behandelingen en yogagroepen van maximaal acht vrouwen, met persoonlijke aandacht voor ieder van jullie.
+>
+> Met yoga, massage en ademwerk begeleid ik je terug naar je lichaam. Uit je hoofd, weer helemaal bij jezelf. Je bent van harte welkom.
+
+**Correctie "Over mij":** twee zinnen aanpassen.
+
+- "Vanaf januari 2027 vind je mij in mijn eigen, kleine praktijkruimte in een holistisch gezondheidshuis in Aalst-Waalre. Een inspirerende, warme plek voor vrouwen om weer helemaal bij zichzelf te komen." wordt: **"Vanaf januari 2027 vind je mij in mijn eigen praktijkruimte in een holistisch gezondheidshuis in Aalst-Waalre. Een inspirerende, fijne en warme plek om weer helemaal bij jezelf te komen."**
+- "In mijn praktijk creëer ik een veilige, warme plek waar je dat weer mag voelen." wordt: **"In mijn praktijk creëer ik een inspirerende, fijne plek waar je dat weer mag voelen."**
 
 **Behandelingen aan huis:** onderaan de pagina met behandelingen graag deze zin: "Behandelingen vinden plaats in mijn praktijk in Aalst-Waalre. In bijzondere gevallen is een behandeling aan huis mogelijk, op aanvraag."
 
