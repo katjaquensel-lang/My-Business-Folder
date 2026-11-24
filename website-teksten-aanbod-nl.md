@@ -46,9 +46,7 @@ Soms heeft je lichaam vooral behoefte aan rust. Even niets hoeven, geen klacht d
 
 **Hoe werkt het?**
 
-Met warme olie en rustige, vloeiende bewegingen masseer ik je lichaam. Het tempo is langzaam en de druk is zacht tot gemiddeld, precies zoals jij het prettig vindt. Je ademhaling wordt vanzelf rustiger, je spieren worden warm en soepel en je hoofd komt tot stilte.
-
-Je kiest zelf of je een kortere massage wilt van rug, nek en schouders, of een langere massage waarbij ik je hele lichaam meeneem.
+Met warme olie en rustige, vloeiende bewegingen masseer ik je hele lichaam. Het tempo is langzaam en de druk is zacht tot gemiddeld, precies zoals jij het prettig vindt. Je ademhaling wordt vanzelf rustiger, je spieren worden warm en soepel en je hoofd komt tot stilte.
 
 **Voor wie?**
 
