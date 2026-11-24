@@ -75,3 +75,12 @@ Veel mensen ervaren verlichting bij spijsverteringsklachten, zoals een opgeblaze
 **Goed om te weten**
 
 Een behandeling duurt 90 minuten: een kwartier intake, 60 minuten massage en een kwartier integratie. Buikmassage is niet geschikt tijdens de zwangerschap, kort na een operatie aan de buik of bij acute ontstekingen. Twijfel je? Overleg dan eerst met je huisarts.
+
+---
+
+## Notities voor de nieuwe prijslijst
+
+- **Buikmassage (Chi Nei Tsang):** 90 minuten (15 min intake, 60 min massage, 15 min integratie) · € 110
+- Ontspanningsmassage: 60 en 90 minuten (geen 30 minuten)
+- Nog aanvullen: yogatarieven (losse les, rittenkaart, maandabonnement)
+- Website-versie: geen telefoonnummer; behandeling aan huis alleen als korte zin "op aanvraag"
