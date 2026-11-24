@@ -55,3 +55,23 @@ Voor iedereen die even uit de drukte wil stappen. Als je veel in je hoofd zit, s
 **Wat merk je erna?**
 
 Je voelt je rustig, warm en lichter. Veel mensen merken dat ze die avond beter slapen. Gun jezelf na de massage nog even tijd, zodat de rust kan nawerken.
+
+---
+
+## Buikmassage (Chi Nei Tsang)
+
+**Waar komt het vandaan?**
+
+Chi Nei Tsang is een oude Taoïstische massagetechniek uit China. De naam betekent letterlijk "het bewerken van de energie van de inwendige organen". Volgens de Taoïstische leer stroomt levensenergie, Qi, via energiekanalen door je lichaam. Vooral in de buik kunnen spanning en blokkades zich ophopen. Raakt die stroom geblokkeerd, dan kan dat zich uiten in lichamelijke en emotionele klachten. Chi Nei Tsang helpt om die blokkades los te maken, zodat de energie weer vrij kan stromen.
+
+**Hoe verloopt een behandeling?**
+
+We beginnen met een kort gesprek. Daarna lig je ontspannen op de behandeltafel en masseer ik je buik met diepe, langzame en ritmische bewegingen. Met zachte druk en gerichte grepen maak ik spanning en blokkades in en rond je buikorganen los. We sluiten af met rust en een nabespreking, zodat je lichaam de behandeling goed kan verwerken.
+
+**Waarbij kan het helpen?**
+
+Veel mensen ervaren verlichting bij spijsverteringsklachten, zoals een opgeblazen gevoel, obstipatie of een onrustige darm. Ook bij stress, onrust, slecht slapen of het gevoel dat je energie vastzit kan buikmassage veel ruimte geven. Je buik is vaak de plek waar je spanning en emoties opslaat. Als die zachter wordt, komt de rest van je lichaam ook tot rust.
+
+**Goed om te weten**
+
+Een behandeling duurt 90 minuten: een kwartier intake, 60 minuten massage en een kwartier integratie. Buikmassage is niet geschikt tijdens de zwangerschap, kort na een operatie aan de buik of bij acute ontstekingen. Twijfel je? Overleg dan eerst met je huisarts.
