@@ -17,7 +17,7 @@
 
 ## Morgen zu tun
 
-1. **Finanzplan UWV anpassen** (Excel + PDF "Financieel overzicht UWV by Katja"):
+1. ERLEDIGT am 25.11.: Unternehmensplan und Finanzübersicht angepasst (10 Behandlungen/Woche, netto ca. € 3.435 ab 2028; Yogatherapie € 70/60 Min. (v); Lymfedrainage nach Kurs im April 2027). Dateien liegen lokal im Ordner, nicht auf GitHub. Ursprüngliche Aufgabe: **Finanzplan UWV anpassen** (Excel + PDF "Financieel overzicht UWV by Katja"):
    - Yoga-Umsatz mit den neuen Preisen: ca. € 23.500/Jahr statt € 37.700 (Annahme: Ø 6 Teilnehmerinnen, Ø ca. € 12 pro Besuch).
    - Behandlungen: ca. 12 pro Woche statt 8 (Ø ca. € 66 excl. btw), ca. € 36.000/Jahr. Passt in die 24,5 Std. buchbare Zeit.
    - Monatsaufbau 2027 entsprechend anpassen.
