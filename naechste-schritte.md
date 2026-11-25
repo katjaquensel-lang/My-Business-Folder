@@ -24,12 +24,12 @@
    - "maandabonnementen en rittenkaarten" ändern in "maandabonnementen en losse lessen, met een gratis proefles".
    - Ziel: übersichtlich, schlüssig, positiv; der UWV-Berater soll schnell sehen, dass es realistisch ist (Startersregeling). Buchhalter steht als Ansprechpartner drin.
    - Optional: Untervermietung des Raums am Freitag (z.B. an die Diätistin) als zusätzlicher Puffer unter "Extra, niet meegerekend".
-2. **Neue Preisliste** (Word + PDF), zwei Versionen:
+2. ERLEDIGT am 25.11.: Preisliste 2027 mit Logo, Website- und Praxis-Version (`Prijslijst By Katja 2027 - website/praktijk .docx/.pdf`). Yogatherapie € 70/60 Min. bleibt. Ursprünglich: **Neue Preisliste** (Word + PDF), zwei Versionen:
    - Website: ohne Telefonnummer, Hausbesuche nur als kurzer Satz "op aanvraag".
    - Praxis/Druck: mit Telefonnummer.
    - Neu: Buikmassage, Yogapreise.
    - Offen: Yogatherapie auf der Liste lassen? Preis?
-3. **Website-Anleitung Teil 3:** Ademwerk (Ademcoaching, Verdiepende ademcoaching), Bodywork, Reiki, Aanbod voor bedrijven (stoelyoga, stoelmassage, ademworkshops).
+3. IN ARBEIT: Entwürfe in `website-teksten-deel3-nl.md` (Bodywork-Einleitung, Reiki, Bedrijven fertig; Ademwerk wird ausführlich neu geschrieben, Katja erzählt dazu noch viel mehr; Testimonials kommen noch). **Website-Anleitung Teil 3:** Ademwerk (Ademcoaching, Verdiepende ademcoaching), Bodywork, Reiki, Aanbod voor bedrijven (stoelyoga, stoelmassage, ademworkshops).
 
 ## Wo was liegt
 
